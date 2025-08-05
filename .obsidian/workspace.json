@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "f06e5609f65c257c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca978e0806178b84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1350c0c172113b04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Projects/Devops/First CI-CD project.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "First CI-CD project"
+            }
+          },
+          {
+            "id": "711fd384b743c107",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Areas/Health/regular check up on december 2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "regular check up on december 2025"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5f3a21103bf15c80",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e59d4812d344758",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0f82aced9f57bec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "50f82b3a4ad0ae6a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "58632e3318e3daeb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1226cf34f747177a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d958a1fd2379e3a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63b5306286c8f3fa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2 Areas/Health/regular check up on december 2025.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for regular check up on december 2025"
+            }
+          },
+          {
+            "id": "780d19e8d729a903",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2 Areas/Health/regular check up on december 2025.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from regular check up on december 2025"
+            }
+          },
+          {
+            "id": "17e76ae6bd299177",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e50d17c36f76ea07",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2 Areas/Health/regular check up on december 2025.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of regular check up on december 2025"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "711fd384b743c107",
+  "lastOpenFiles": [
+    "1 Projects/Devops/Personal website launch.md",
+    "2 Areas/Health/Teeth.md",
+    "1 Projects/Devops/First CI-CD project.md",
+    "1 Projects/Devops",
+    "1 Projects/Untitled.canvas",
+    "2 Areas/Health/regular check up on december 2025.md",
+    "1 Projects/Devops.md",
+    "PARA.md",
+    "2 Areas/Health",
+    "3 Resources/Hiking/Big Almaty Peak.md",
+    "3 Resources/Hiking/2025 - destinations.md",
+    "3 Resources/Hiking",
+    "Welcome.md",
+    "0 Inbox/hahahha.md",
+    "0 Inbox/test.md",
+    "Untitled.canvas",
+    "0 Inbox/you.md",
+    "0 Inbox/test.md",
+    "4 Archive",
+    "3 Resources",
+    "2 Areas",
+    "1 Projects",
+    "0 Inbox",
+    "Example 1"
+  ]
+}
