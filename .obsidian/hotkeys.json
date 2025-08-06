@@ -14,5 +14,13 @@
       ],
       "key": "M"
     }
+  ],
+  "editor:set-heading": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "`"
+    }
   ]
 }
