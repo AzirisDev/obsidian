@@ -4,67 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "ca978e0806178b84",
+        "id": "5d367d7fb8a25bd4",
         "type": "tabs",
         "children": [
           {
-            "id": "1350c0c172113b04",
+            "id": "d873c9f35aea9b1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Projects/Devops/First CI-CD project.md",
+                "file": "2 Journal/2025-08-15.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "First CI-CD project"
+              "title": "2025-08-15"
             }
           },
           {
-            "id": "711fd384b743c107",
+            "id": "c3199e843b39c2e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Areas/Health/regular check up on december 2025.md",
+                "file": "0 Inbox/How to start with Linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "regular check up on december 2025"
+              "title": "How to start with Linux"
             }
           },
           {
-            "id": "d361100124215049",
+            "id": "f9a2a2f14f9707a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Zettle template.md",
+                "file": "0 Inbox/Tips to start with Linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zettle template"
+              "title": "Tips to start with Linux"
             }
           },
           {
-            "id": "4663b9256bf52893",
+            "id": "8b003e375e72ed05",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Resources/Hiking/2025 - destinations.md",
+                "file": "0 Inbox/What is Linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025 - destinations"
+              "title": "What is Linux"
+            }
+          },
+          {
+            "id": "5040cb2ae397393c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 Inbox/Why should learn Linux as DevOps engineers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Why should learn Linux as DevOps engineers"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -224,35 +238,45 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4663b9256bf52893",
+  "active": "f9a2a2f14f9707a9",
   "lastOpenFiles": [
+    "0 Inbox/Why should learn Linux as DevOps engineers.md",
+    "0 Inbox/Tips to start with Linux.md",
+    "0 Inbox/How to start with Linux.md",
+    "2 Journal/2025-08-15.md",
+    "0 Inbox/What is Linux.md",
+    "2 Journal/2025-08-14.md",
+    "Zettlekasten/Zettlekasten - what is it?.md",
+    "Zettlekasten/X power.md",
+    "Zettlekasten/Always post what your doing.md",
+    "Zettlekasten/Make posts authentic and effective.md",
+    "Zettlekasten/LinkedIn power.md",
+    "Zettlekasten/GitHub power.md",
     "Templates/Zettle template.md",
-    "3 Resources/Hiking/Big Almaty Peak.md",
+    "Zettlekasten/There is a systematic way to build your personal brand..md",
+    "Zettlekasten/PARA.md",
+    "Zettlekasten",
+    "1 Input/Courses/Personal Brand.md",
+    "0 Inbox/Untitled 1.md",
+    "3 Output/Posts",
+    "1 Input/Courses",
+    "1 Input/Videos",
+    "1 Input/Books",
+    "1 Input/Articles",
+    "3 Output",
+    "2 Journal",
+    "1 Input",
+    "0 Inbox/Hello world.md",
+    "0 Inbox/Git test.md",
+    "0 Inbox/test note iphon.md",
+    "Welcome.md",
     "3 Resources/Hiking/2025 - destinations.md",
+    "3 Resources/Hiking/Big Almaty Peak.md",
     "2 Areas/Health/Teeth.md",
     "2 Areas/Health/regular check up on december 2025.md",
     "1 Projects/Devops/Personal website launch.md",
-    "1 Projects/Devops/First CI-CD project.md",
-    "0 Inbox/Hello world.md",
-    "0 Inbox/Git test.md",
     "Templates",
-    "1 Projects/Devops",
     "1 Projects/Untitled.canvas",
-    "1 Projects/Devops.md",
-    "PARA.md",
-    "2 Areas/Health",
-    "3 Resources/Hiking",
-    "Welcome.md",
-    "0 Inbox/hahahha.md",
-    "0 Inbox/test.md",
-    "Untitled.canvas",
-    "0 Inbox/you.md",
-    "0 Inbox/test.md",
-    "4 Archive",
-    "3 Resources",
-    "2 Areas",
-    "1 Projects",
-    "0 Inbox",
-    "Example 1"
+    "Untitled.canvas"
   ]
 }
