@@ -17,7 +17,8 @@ Commands:
 	- dd - deletes entire line
 	- u - undo ones
 	- U - undo line
-	- 0 - move to end of the line
+	- 0 - move to start of the line
+	- $ - move to end of the line
 - 3 - lesson - change operators
 	- p - put info that was stored in vim register
 	- r + [character] - replaces the character under cursor
