@@ -11,6 +11,7 @@ Benefits of it:
 Learn "why" before fixing what.
 
 [[Tips to start with Linux]]
+[[Linux virtual machine]]
 
 
 Links:

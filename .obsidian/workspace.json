@@ -4,81 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "5d367d7fb8a25bd4",
+        "id": "fb7a0daa46a1e556",
         "type": "tabs",
         "children": [
           {
-            "id": "d873c9f35aea9b1b",
+            "id": "759f31d0f276b6e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Journal/2025-08-15.md",
+                "file": "2 Journal/2025-08-18.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-15"
+              "title": "2025-08-18"
             }
           },
           {
-            "id": "c3199e843b39c2e8",
+            "id": "7981b0501ebd9ee2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 Inbox/How to start with Linux.md",
+                "file": "2 Journal/2025-08-19.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to start with Linux"
+              "title": "2025-08-19"
             }
           },
           {
-            "id": "f9a2a2f14f9707a9",
+            "id": "4e1d286ff3d1a2ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 Inbox/Tips to start with Linux.md",
+                "file": "Zettlekasten/Package Manager in Linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tips to start with Linux"
+              "title": "Package Manager in Linux"
             }
           },
           {
-            "id": "8b003e375e72ed05",
+            "id": "c58c4f992a77d564",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 Inbox/What is Linux.md",
+                "file": "1 Input/Courses/First commands on Linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What is Linux"
-            }
-          },
-          {
-            "id": "5040cb2ae397393c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 Inbox/Why should learn Linux as DevOps engineers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Why should learn Linux as DevOps engineers"
+              "title": "First commands on Linux"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -238,14 +224,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f9a2a2f14f9707a9",
+  "active": "7981b0501ebd9ee2",
   "lastOpenFiles": [
-    "0 Inbox/Why should learn Linux as DevOps engineers.md",
-    "0 Inbox/Tips to start with Linux.md",
-    "0 Inbox/How to start with Linux.md",
+    "2 Journal/2025-08-18.md",
+    "2 Journal/2025-08-19.md",
+    "2 Journal/2025-08-16.md",
     "2 Journal/2025-08-15.md",
-    "0 Inbox/What is Linux.md",
     "2 Journal/2025-08-14.md",
+    "Zettlekasten/Package Manager in Linux.md",
+    "Zettlekasten/Vim started.md",
+    "1 Input/Courses/First commands on Linux.md",
+    "Zettlekasten/Linux virtual machine.md",
+    "1 Input/Courses/How to start with Linux.md",
+    "Zettlekasten/Why should learn Linux as DevOps engineers.md",
+    "Zettlekasten/Tips to start with Linux.md",
+    "1 Input/Courses/What is Linux.md",
     "Zettlekasten/Zettlekasten - what is it?.md",
     "Zettlekasten/X power.md",
     "Zettlekasten/Always post what your doing.md",
@@ -268,13 +261,6 @@
     "1 Input",
     "0 Inbox/Hello world.md",
     "0 Inbox/Git test.md",
-    "0 Inbox/test note iphon.md",
-    "Welcome.md",
-    "3 Resources/Hiking/2025 - destinations.md",
-    "3 Resources/Hiking/Big Almaty Peak.md",
-    "2 Areas/Health/Teeth.md",
-    "2 Areas/Health/regular check up on december 2025.md",
-    "1 Projects/Devops/Personal website launch.md",
     "Templates",
     "1 Projects/Untitled.canvas",
     "Untitled.canvas"
