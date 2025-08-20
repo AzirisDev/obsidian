@@ -65,8 +65,17 @@ Commands:
 		- :set nohls - remove highlight
 - 7 - lesson - end
 	- :help - help from native
-	- vim scriptins - need to create vimrc files
+	- vim scripts - need to create vimrc files
 	- ctrl + D + tab - command completion
+- Additional
+	- :sort ui - sort things
+	- :set number/nonumber - puts line numbers
+	- vim .vimrc - create a configurion file
+		- you can add comments with "
+		- add commands without ":"
+	- vim +[number] [filename] [filename] - start with certain line
+	- vim -o [filename1] + [filename2] - opens two files split in horizontal mode
+	- vim -O [filename1] + [filename2] - opens two files split in vertical mode
 
 Links:
 
