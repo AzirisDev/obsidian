@@ -9,6 +9,8 @@
 - .deb package - download this of software to install the package from browser
 [[Package Manager in Linux]]
 [[Vim started]]
+[[Linux command line operations]]
+[[Linux Documentation]]
 Links:
 
 202508181519

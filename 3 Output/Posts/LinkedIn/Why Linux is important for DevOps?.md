@@ -16,4 +16,4 @@ Follow me for practical insights into DevOps, Linux, and cloud-native growth.
 
 #Linux #DevOps #Kubernetes #CloudNative #CareerGrowth
 
-![[ChatGPT Image Aug 23, 2025 at 06_40_48 PM 1.png]]
+![[ChatGPT Image Aug 23, 2025 at 06_40_48 PM.png]]

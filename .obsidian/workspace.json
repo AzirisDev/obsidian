@@ -4,35 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "d65e5cc796048395",
+        "id": "d6b37e4054ca0ec9",
         "type": "tabs",
         "children": [
           {
-            "id": "4a59bbbfe35baef9",
+            "id": "d7e18269d8b2b485",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Output/Posts/LinkedIn/Why Linux is important for DevOps?.md",
+                "file": "1 Input/Courses/Linux/Processes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Why Linux is important for DevOps?"
+              "title": "Processes"
             }
           },
           {
-            "id": "ebcb0ecfe5515258",
+            "id": "3525c435eeebe17d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Output/Posts/X/Why Linux is important for DevOps?.md",
+                "file": "0 Inbox/Schedule the process.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Why Linux is important for DevOps?"
+              "title": "Schedule the process"
+            }
+          },
+          {
+            "id": "083086f69e6f18da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 Inbox/Foreground and background processes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Foreground and background processes"
+            }
+          },
+          {
+            "id": "3aae858f6e7d04df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 Inbox/Load average.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Load average"
             }
           }
         ],
@@ -68,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#CareerGrowth",
+                "query": "linux commands",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -197,39 +225,40 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ebcb0ecfe5515258",
+  "active": "3525c435eeebe17d",
   "lastOpenFiles": [
+    "0 Inbox/Schedule the process.md",
+    "1 Input/Courses/Linux/Processes.md",
+    "0 Inbox/Scheduler and process states.md",
+    "0 Inbox/Priorities.md",
+    "0 Inbox/Types of processes.md",
+    "0 Inbox/Foreground and background processes.md",
+    "0 Inbox/Load average.md",
+    "0 Inbox/User and group IDs.md",
+    "0 Inbox/Terminate process.md",
+    "0 Inbox/PID.md",
+    "0 Inbox/What is process.md",
+    "2 Journal/2025-08-26.md",
     "3 Output/Posts/LinkedIn/Why Linux is important for DevOps?.md",
+    "Zettlekasten/Linux Documentation.md",
+    "Zettlekasten/First commands on Linux.md",
+    "2 Journal/2025-08-18.md",
+    "1 Input/Courses/Linux/Linux command line operations.md",
+    "2 Journal/2025-08-25.md",
     "3 Output/Posts/X/Why Linux is important for DevOps?.md",
     "ChatGPT Image Aug 23, 2025 at 06_40_48 PM 1.png",
     "ChatGPT Image Aug 23, 2025 at 06_40_48 PM.png",
+    "Zettlekasten/Standard File Streams.md",
+    "Zettlekasten/Pipes.md",
+    "0 Inbox/Untitled.md",
+    "2 Journal/2025-08-24.md",
+    "1 Input/Courses/Linux/Linux boot process.md",
+    "1 Input/Courses/Linux/Linux Basics.md",
+    "2 Journal/2025-08-23.md",
     "0 Inbox/Untitled 1.base",
     "0 Inbox/Untitled.base",
-    "Zettlekasten/Why should learn Linux as DevOps engineers.md",
-    "Zettlekasten/What is Linux.md",
-    "Zettlekasten/LinkedIn power.md",
-    "Zettlekasten/Make posts authentic and effective.md",
     "3 Output/Posts/X",
     "3 Output/Posts/LinkedIn",
-    "2 Journal/2025-08-15.md",
-    "2 Journal/2025-08-14.md",
-    "2 Journal/2025-08-23.md",
-    "Zettlekasten/File systems basic.md",
-    "1 Input/Courses/Linux/Linux Basics.md",
-    "2 Journal/2025-08-20.md",
-    "Zettlekasten/File system commands.md",
-    "Zettlekasten/PARA.md",
-    "Zettlekasten/Buffers in vim.md",
-    "1 Input/Courses/Linux/Linux starter pack.md",
-    "Zettlekasten/Vimtutor.md",
-    "1 Input/Courses/Linux/Linux boot process.md",
-    "1 Input/Courses/Personal Brand/Personal Brand.md",
-    "2 Journal/2025-08-22.md",
-    "2 Journal/2025-08-21.md",
-    "2 Journal/2025-08-19.md",
-    "2 Journal/2025-08-18.md",
-    "2 Journal/2025-08-16.md",
-    "Zettlekasten/Master Boot Record(MBR).md",
     "\"/sbin",
     "\"",
     "sbin",
