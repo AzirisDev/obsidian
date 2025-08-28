@@ -1,6 +1,6 @@
 #courses
 [[What is Linux]]
-[[How to start with Linux]]
+[[Zettlekasten/How to start with Linux]]
 [[First commands on Linux]]
 [[File system commands]]
 [[Buffers in vim]]
