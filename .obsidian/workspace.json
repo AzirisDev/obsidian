@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d6b37e4054ca0ec9",
+        "id": "a8baa65f4395d2d0",
         "type": "tabs",
         "children": [
           {
-            "id": "f01a14b3fc9b9255",
+            "id": "f6b1cffa976bcb38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Journal/2025-08-16.md",
+                "file": "3 Periodic Notes/Yearly/2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-16"
-            }
-          },
-          {
-            "id": "8456886a13ff4ca0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 Output/Posts/X/VM for Ubuntu.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "VM for Ubuntu"
+              "title": "2025"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Areas/Health/regular check up on december 2025.md",
+                "file": "3 Periodic Notes/Yearly/2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of regular check up on december 2025"
+              "title": "Outline of 2025"
             }
           },
           {
@@ -175,14 +160,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "9a6eb23617abbeb6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,51 +188,52 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "8456886a13ff4ca0",
+  "active": "f6b1cffa976bcb38",
   "lastOpenFiles": [
-    "3 Output/Posts/X/Why Linux is important for DevOps?.md",
-    "3 Output/Posts/X/VM for Ubuntu.md",
-    "3 Output/Posts/LinkedIn/VM for Ubuntu.md",
+    "0 Inbox/Land my first position as a DevOps Engineer.md",
+    "0 Inbox/Untitled.md",
+    "3 Periodic Notes/Yearly/2025.md",
+    "3 Periodic Notes/Daily/2025-09-03.md",
+    "3 Periodic Notes/Monthly/2025-09.md",
+    "3 Periodic Notes/Weekly/2025-W36.md",
+    "Templates/Yearly.md",
+    "3 Periodic Notes/Yearly/Untitled.md",
+    "0 Inbox/Untitled 1.md",
+    "Templates/Daily.md",
+    "Templates/Monthly.md",
+    "Templates/Weekly.md",
+    "3 Periodic Notes/Daily/2025-08-14.md",
+    "Templates/Zettle template.md",
+    "Templates/Yearly",
+    "3 Periodic Notes/Daily/2025-09-02.md",
+    "3 Periodic Notes/Daily/2025-09-01.md",
+    "2 Output/Posts/X/VM for Ubuntu.md",
+    "2 Output/Posts/LinkedIn/VM for Ubuntu.md",
+    "2 Output/Posts/LinkedIn/How to start with Linux.md",
+    "3 Periodic Notes/Yearly",
+    "3 Periodic Notes/Weekly",
+    "3 Periodic Notes/Monthly",
+    "3 Periodic Notes/Daily",
+    "3 Periodic Notes",
+    "3 Periodic Notes/Daily/2025-08-16.md",
+    "2 Output/Posts/X/Why Linux is important for DevOps?.md",
     "ChatGPT Image Sep 1, 2025 at 05_53_22 PM.png",
     "Zettlekasten/Make posts authentic and effective.md",
     "Zettlekasten/Linux virtual machine.md",
-    "2 Journal/2025-08-16.md",
-    "2 Journal/2025-08-18.md",
-    "2 Journal/2025-08-15.md",
-    "2 Journal/2025-08-14.md",
-    "3 Output/Posts/X/How to start with Linux.md",
-    "3 Output/Posts/LinkedIn/How to start with Linux.md",
-    "2 Journal/2025-09-01.md",
-    "2 Journal/2025-08-30.md",
-    "2 Journal/2025-08-29.md",
-    "Zettlekasten/Every device in network needs IP address.md",
-    "Zettlekasten/Domain name server.md",
-    "1 Input/Courses/Linux/Network operations.md",
-    "1 Input/Courses/Linux/Manipulate texts.md",
-    "Zettlekasten/Working with large files.md",
-    "Zettlekasten/Text processing language.md",
-    "Zettlekasten/Stream editor.md",
-    "Zettlekasten/File manipulation programs.md",
-    "Zettlekasten/cat.md",
-    "Zettlekasten/Users and groups.md",
-    "Zettlekasten/User startup files.md",
-    "Zettlekasten/Shell command history.md",
+    "3 Periodic Notes/Daily/2025-08-18.md",
+    "3 Periodic Notes/Daily/2025-08-15.md",
+    "2 Output/Posts/X/How to start with Linux.md",
     "0 Inbox/Untitled.base",
     "ChatGPT Image Aug 28, 2025 at 07_16_57 PM.png",
     "ChatGPT Image Aug 23, 2025 at 06_40_48 PM 1.png",
     "ChatGPT Image Aug 23, 2025 at 06_40_48 PM.png",
     "0 Inbox/Untitled 1.base",
-    "3 Output/Posts/X",
-    "3 Output/Posts/LinkedIn",
-    "\"/sbin",
-    "\"",
-    "sbin",
-    "1 Input/Courses/Personal Brand",
-    "1 Input/Courses/Linux",
-    "Zettlekasten",
+    "2 Output/Posts/X",
+    "2 Output/Posts/LinkedIn",
     "1 Projects/Untitled.canvas",
     "Untitled.canvas"
   ]

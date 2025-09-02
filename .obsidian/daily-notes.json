@@ -1,4 +1,5 @@
 {
-  "folder": "2 Journal",
-  "autorun": true
+  "folder": "3 Periodic Notes/Daily",
+  "autorun": true,
+  "template": "Templates/Daily"
 }
