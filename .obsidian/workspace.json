@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Periodic Notes/Yearly/2025.md",
+                "file": "3 Periodic Notes/Daily/2025-09-03.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025"
+              "title": "2025-09-03"
             }
           }
         ]
@@ -157,8 +157,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
@@ -181,22 +181,22 @@
   "left-ribbon": {
     "hiddenItems": {
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
       "periodic-notes:Open today": false
     }
   },
   "active": "f6b1cffa976bcb38",
   "lastOpenFiles": [
+    "3 Periodic Notes/Yearly/2025.md",
     "0 Inbox/Land my first position as a DevOps Engineer.md",
     "0 Inbox/Untitled.md",
-    "3 Periodic Notes/Yearly/2025.md",
     "3 Periodic Notes/Daily/2025-09-03.md",
     "3 Periodic Notes/Monthly/2025-09.md",
     "3 Periodic Notes/Weekly/2025-W36.md",
