@@ -12,8 +12,8 @@
 
 # Weekly Objectives
 
-- [ ] Example
-- [ ] Example
+- [ ] Post 2 times on LinkedIn
+- [ ] Post on X
 - [ ] Example
 
 # Review

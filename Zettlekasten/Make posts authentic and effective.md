@@ -3,7 +3,7 @@ There are 3 ways to make posts:
 - Make AI do it for you - do not do it, it instantly creates negative impression
 - Do it yourself, powering your writing with AI - most effective and wise way
 
-here is my promt to generate images:
+here is my prompt to generate images:
 
 `Generate me a picture of Linux Penguin. Image should not contain any words. Image should in Rick and Morty style of animation. Give a penguin cool, scientific look. No background, choose some one color(maybe little gradient) background, with eye catching color. Also, do not forget that this will be posted on LinkedIn`
 
