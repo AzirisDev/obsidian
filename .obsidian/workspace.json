@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "2025-09-06"
             }
+          },
+          {
+            "id": "07223ae3278ba8e1",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,36 +207,38 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f6b1cffa976bcb38",
+  "active": "07223ae3278ba8e1",
   "lastOpenFiles": [
-    "3 Periodic Notes/Yearly/2025.md",
+    "conflict-files-obsidian-git.md",
     "3 Periodic Notes/Daily/2025-09-06.md",
+    "Zettlekasten/systemd let us runs services.md",
+    "Zettlekasten/ls commands for hardware.md",
+    "Zettlekasten/init program.md",
+    "Zettlekasten/Theere is a tool to read kernel level messages - dmesg.md",
+    "Zettlekasten/Programming language - Adventure.md",
+    "Zettlekasten/One cloud provider - Adventure.md",
+    "Zettlekasten/Loadable Kernel modules are built-in in Linux.md",
+    "Zettlekasten/Linux - Adventure.md",
+    "Zettlekasten/Land my first position as a DevOps Engineer.md",
+    "Zettlekasten/Kubernetes - Adventure.md",
+    "Zettlekasten/Kernel provides sysfs to get information and configurations of the hardware.md",
+    "Zettlekasten/Containers - Adventure.md",
+    "Zettlekasten/Certificates - Adventure.md",
+    "Zettlekasten/Be public about my journey - Adventure.md",
+    "3 Periodic Notes/Daily/2025-09-05.md",
+    "3 Periodic Notes/Daily/2025-09-04.md",
+    "1 Input/Videos/LPIC-1/Determine and Configure Hardware.md",
+    "1 Input/Videos/LPIC-1/Boot System.md",
+    "1 Input/Videos/LPIC-1",
+    "1 Input/Videos",
+    "3 Periodic Notes/Yearly/2025.md",
     "3 Periodic Notes/Weekly/2025-W36.md",
     "3 Periodic Notes/Monthly/2025-09.md",
     "3 Periodic Notes/Daily/2025-09-03.md",
     "ChatGPT Image Sep 3, 2025 at 09_24_02 PM.png",
     "2 Output/Posts/X/First Linux commands.md",
     "2 Output/Posts/LinkedIn/First Linux commands.md",
-    "0 Inbox/Programming language - Adventure.md",
-    "0 Inbox/One cloud provider - Adventure.md",
-    "0 Inbox/Linux - Adventure.md",
-    "0 Inbox/Kubernetes - Adventure.md",
-    "0 Inbox/Containers - Adventure.md",
-    "0 Inbox/Certificates - Adventure.md",
-    "0 Inbox/Be public about my journey - Adventure.md",
-    "0 Inbox/Land my first position as a DevOps Engineer.md",
-    "0 Inbox/Untitled.md",
-    "Templates/Yearly.md",
-    "3 Periodic Notes/Yearly/Untitled.md",
-    "0 Inbox/Untitled 1.md",
-    "Templates/Daily.md",
-    "Templates/Monthly.md",
-    "Templates/Weekly.md",
-    "3 Periodic Notes/Daily/2025-08-14.md",
-    "Templates/Zettle template.md",
     "Templates/Yearly",
-    "3 Periodic Notes/Daily/2025-09-02.md",
-    "3 Periodic Notes/Daily/2025-09-01.md",
     "3 Periodic Notes/Yearly",
     "3 Periodic Notes/Weekly",
     "3 Periodic Notes/Monthly",
@@ -233,8 +250,6 @@
     "ChatGPT Image Aug 23, 2025 at 06_40_48 PM 1.png",
     "ChatGPT Image Aug 23, 2025 at 06_40_48 PM.png",
     "0 Inbox/Untitled 1.base",
-    "2 Output/Posts/X",
-    "2 Output/Posts/LinkedIn",
     "1 Projects/Untitled.canvas",
     "Untitled.canvas"
   ]
