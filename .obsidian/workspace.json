@@ -25,14 +25,14 @@
             "id": "07223ae3278ba8e1",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
+                "file": "3 Periodic Notes/Daily/2025-09-06.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
+              "icon": "lucide-file",
+              "title": "2025-09-06"
             }
           }
         ],
@@ -207,10 +207,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4066056bdc981435",
+  "active": "07223ae3278ba8e1",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "3 Periodic Notes/Daily/2025-09-05.md",
     "3 Periodic Notes/Daily/2025-09-06.md",
+    "3 Periodic Notes/Daily/2025-09-04.md",
+    "3 Periodic Notes/Weekly/2025-W36.md",
+    "conflict-files-obsidian-git.md",
     "Zettlekasten/systemd let us runs services.md",
     "Zettlekasten/ls commands for hardware.md",
     "Zettlekasten/init program.md",
@@ -225,14 +228,11 @@
     "Zettlekasten/Containers - Adventure.md",
     "Zettlekasten/Certificates - Adventure.md",
     "Zettlekasten/Be public about my journey - Adventure.md",
-    "3 Periodic Notes/Daily/2025-09-05.md",
-    "3 Periodic Notes/Daily/2025-09-04.md",
     "1 Input/Videos/LPIC-1/Determine and Configure Hardware.md",
     "1 Input/Videos/LPIC-1/Boot System.md",
     "1 Input/Videos/LPIC-1",
     "1 Input/Videos",
     "3 Periodic Notes/Yearly/2025.md",
-    "3 Periodic Notes/Weekly/2025-W36.md",
     "3 Periodic Notes/Monthly/2025-09.md",
     "3 Periodic Notes/Daily/2025-09-03.md",
     "ChatGPT Image Sep 3, 2025 at 09_24_02 PM.png",
