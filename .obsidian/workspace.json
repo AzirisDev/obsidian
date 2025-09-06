@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8ad68eb08706b961",
+        "id": "85224cb194143fc9",
         "type": "tabs",
         "children": [
           {
-            "id": "c122189b7c906d45",
+            "id": "7c91e1785d063e69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Periodic Notes/Monthly/2025-09.md",
+                "file": "3 Periodic Notes/Daily/2025-09-05.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09"
+              "title": "2025-09-05"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "genera",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -192,35 +192,36 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c122189b7c906d45",
+  "active": "7c91e1785d063e69",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "3 Periodic Notes/Monthly/2025-09.md",
-    "3 Periodic Notes/Weekly/2025-W36.md",
+    "3 Periodic Notes/Daily/2025-09-05.md",
+    "3 Periodic Notes/Daily/2025-09-04.md",
     "3 Periodic Notes/Daily/2025-09-03.md",
-    "0 Inbox/Linux - Adventure.md",
+    "3 Periodic Notes/Daily/2025-08-29.md",
+    "3 Periodic Notes/Daily/2025-08-30.md",
+    "3 Periodic Notes/Daily/2025-09-01.md",
+    "3 Periodic Notes/Daily/2025-09-02.md",
+    "Templates/Daily.md",
+    "3 Periodic Notes/Weekly/2025-W36.md",
+    "Zettlekasten/Theere is a tool to read kernel level messages - dmesg.md",
+    "Zettlekasten/systemd let us runs services.md",
+    "Zettlekasten/init program.md",
+    "1 Input/Videos/LPIC-1/Boot System.md",
+    "1 Input/Videos/LPIC-1/Determine and Configure Hardware.md",
+    "3 Periodic Notes/Monthly/2025-09.md",
+    "1 Input/Courses/Linux/Linux boot process.md",
+    "Zettlekasten/Kernel provides sysfs to get information and configurations of the hardware.md",
+    "Zettlekasten/Loadable Kernel modules are built-in in Linux.md",
+    "Zettlekasten/ls commands for hardware.md",
+    "0 Inbox/Untitled.md",
+    "Zettlekasten/Master Boot Record(MBR).md",
     "2 Output/Posts/X/First Linux commands.md",
     "2 Output/Posts/LinkedIn/First Linux commands.md",
+    "1 Input/Videos/LPIC-1/Untitled.md",
+    "Zettlekasten/Linux - Adventure.md",
+    "1 Input/Videos/LPIC-1",
+    "Zettlekasten/Land my first position as a DevOps Engineer.md",
     "ChatGPT Image Sep 3, 2025 at 09_24_02 PM.png",
-    "Zettlekasten/Make posts authentic and effective.md",
-    "Zettlekasten/First commands on Linux.md",
-    "3 Periodic Notes/Daily/2025-08-18.md",
-    "Zettlekasten/Vim started.md",
-    "Zettlekasten/Package Manager in Linux.md",
-    "Zettlekasten/There is a systematic way to build your personal brand..md",
-    "3 Periodic Notes/Daily/2025-08-16.md",
-    "3 Periodic Notes/Daily/2025-08-15.md",
-    "3 Periodic Notes/Yearly/2025.md",
-    "Templates/Weekly.md",
-    "Templates/Daily.md",
-    "Templates/Monthly.md",
-    "0 Inbox/Programming language - Adventure.md",
-    "0 Inbox/Land my first position as a DevOps Engineer.md",
-    "0 Inbox/Certificates - Adventure.md",
-    "0 Inbox/One cloud provider - Adventure.md",
-    "0 Inbox/Kubernetes - Adventure.md",
-    "0 Inbox/Containers - Adventure.md",
-    "0 Inbox/Be public about my journey - Adventure.md",
     "Templates/Yearly",
     "3 Periodic Notes/Yearly",
     "3 Periodic Notes/Weekly",
@@ -234,7 +235,6 @@
     "ChatGPT Image Aug 23, 2025 at 06_40_48 PM.png",
     "0 Inbox/Untitled 1.base",
     "2 Output/Posts/X",
-    "2 Output/Posts/LinkedIn",
     "1 Projects/Untitled.canvas",
     "Untitled.canvas"
   ]
