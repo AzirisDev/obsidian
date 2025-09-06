@@ -11,7 +11,7 @@ Buffer is a in-memory text form of file, opened for editing.
 - vsplit [filename] / vs [filename] - splits screen between files vertically
 	- ctrl + ww - switch between two different files on the screen
 - you can split the same file like large ones for convenience
-[[Vimtutor]]
+[[Zettlekasten/Vimtutor]]
 
 
 
