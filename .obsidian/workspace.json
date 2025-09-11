@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2bf41a4ccbe26092",
+        "id": "116010502b5342ad",
         "type": "tabs",
         "children": [
           {
-            "id": "858d07b2cfdf54df",
+            "id": "74ba0d96a5b22f58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Output/Posts/LinkedIn/Install Docker engine.md",
+                "file": "3 Periodic Notes/Daily/2025-09-11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Install Docker engine"
+              "title": "2025-09-11"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -53,12 +53,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "apt install",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               },
               "icon": "lucide-search",
               "title": "Search"
@@ -172,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -192,36 +192,38 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "858d07b2cfdf54df",
+  "active": "74ba0d96a5b22f58",
   "lastOpenFiles": [
-    "3 Periodic Notes/Weekly/2025-W36.md",
+    "1 Input/Videos/LPIC-1/Virtualization and containers.md",
+    "1 Input/Videos/LPIC-1/Debian system repositories config.md",
+    "1 Input/Videos/LPIC-1/Managing shared libraries.md",
+    "1 Input/Videos/LPIC-1/Install a boot loader.md",
+    "1 Input/Videos/LPIC-1/Design disk layouts.md",
+    "1 Input/Videos/LPIC-1/Runlevels in sysV and targets in systemd.md",
+    "1 Input/Videos/LPIC-1/Determine and Configure Hardware.md",
+    "1 Input/Videos/LPIC-1/Boot System.md",
+    "Zettlekasten/Linux virtual machine.md",
+    "3 Periodic Notes/Daily/2025-09-11.md",
+    "3 Periodic Notes/Weekly/2025-W37.md",
     "2 Output/Posts/LinkedIn/Install Docker engine.md",
     "2 Output/Posts/LinkedIn/vimtutor.md",
-    "2 Output/Posts/X/Install Docker engine.md",
-    "2 Output/Posts/X/vimtutor.md",
-    "Zettlekasten/Make posts authentic and effective.md",
-    "ChatGPT Image Sep 6, 2025 at 10_56_37 PM.png",
-    "Zettlekasten/Installing docker engine.md",
-    "3 Periodic Notes/Daily/2025-08-20.md",
-    "Zettlekasten/File system commands.md",
-    "3 Periodic Notes/Daily/2025-08-19.md",
-    "Zettlekasten/Vimtutor.md",
-    "3 Periodic Notes/Daily/2025-08-18.md",
-    "ChatGPT Image Sep 6, 2025 at 10_45_24 PM.png",
-    "Zettlekasten/Vim started.md",
-    "Zettlekasten/First commands on Linux.md",
-    "3 Periodic Notes/Daily/2025-08-16.md",
-    "3 Periodic Notes/Daily/2025-08-15.md",
+    "2 Output/Posts/LinkedIn/First Linux commands.md",
+    "2 Output/Posts/LinkedIn/How to start with Linux.md",
+    "Zettlekasten/Debian package manager commands.md",
+    "2 Output/Posts/X/First Linux commands.md",
+    "3 Periodic Notes/Daily/2025-09-10.md",
+    "0 Inbox/Debian system repositories config.md",
+    "3 Periodic Notes/Daily/2025-09-09.md",
+    "3 Periodic Notes/Daily/2025-09-08.md",
+    "3 Periodic Notes/Daily/2025-09-07.md",
     "3 Periodic Notes/Daily/2025-09-06.md",
     "3 Periodic Notes/Daily/2025-09-05.md",
-    "3 Periodic Notes/Daily/2025-09-04.md",
-    "conflict-files-obsidian-git.md",
-    "Zettlekasten/systemd let us runs services.md",
-    "Zettlekasten/ls commands for hardware.md",
-    "Zettlekasten/init program.md",
-    "Zettlekasten/Theere is a tool to read kernel level messages - dmesg.md",
-    "Zettlekasten/Programming language - Adventure.md",
-    "Zettlekasten/One cloud provider - Adventure.md",
+    "3 Periodic Notes/Monthly/2025-09.md",
+    "Zettlekasten/file system hierarchy - FHS.md",
+    "0 Inbox/Untitled.base",
+    "0 Inbox",
+    "ChatGPT Image Sep 6, 2025 at 10_56_37 PM.png",
+    "ChatGPT Image Sep 6, 2025 at 10_45_24 PM.png",
     "1 Input/Videos/LPIC-1",
     "1 Input/Videos",
     "ChatGPT Image Sep 3, 2025 at 09_24_02 PM.png",
@@ -232,11 +234,9 @@
     "3 Periodic Notes/Daily",
     "3 Periodic Notes",
     "ChatGPT Image Sep 1, 2025 at 05_53_22 PM.png",
-    "0 Inbox/Untitled.base",
     "ChatGPT Image Aug 28, 2025 at 07_16_57 PM.png",
     "ChatGPT Image Aug 23, 2025 at 06_40_48 PM 1.png",
     "ChatGPT Image Aug 23, 2025 at 06_40_48 PM.png",
-    "0 Inbox/Untitled 1.base",
     "1 Projects/Untitled.canvas",
     "Untitled.canvas"
   ]
