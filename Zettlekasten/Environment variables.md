@@ -6,6 +6,8 @@ You can view them using "set", "env", "export".
 - PATH - ordered list of directories configured to find executable programs
 - SHELL - points to default shell
 - PS1 - configures the appearance of command line prompt
+- HISTFILE - location of bash history
+- SHELL - current shell
 
 
 
