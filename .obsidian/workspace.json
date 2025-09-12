@@ -8,20 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "74ba0d96a5b22f58",
+            "id": "25f5050027232772",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Periodic Notes/Daily/2025-09-03.md",
+                "file": "3 Periodic Notes/Daily/2025-09-12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-03"
+              "title": "2025-09-12"
+            }
+          },
+          {
+            "id": "4e858d1d7b8cff24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Input/Videos/LPIC-1/Process text streams using filters.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Process text streams using filters"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +55,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -192,12 +207,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "74ba0d96a5b22f58",
+  "active": "4e858d1d7b8cff24",
   "lastOpenFiles": [
+    "3 Periodic Notes/Daily/2025-09-12.md",
+    "1 Input/Videos/LPIC-1/Process text streams using filters.md",
+    "3 Periodic Notes/Weekly/2025-W37.md",
+    "3 Periodic Notes/Monthly/2025-09.md",
+    "3 Periodic Notes/Daily/2025-09-11.md",
+    "3 Periodic Notes/Daily/2025-09-10.md",
+    "3 Periodic Notes/Daily/2025-09-09.md",
+    "3 Periodic Notes/Daily/2025-09-03.md",
     "3 Periodic Notes/Daily/2025-09-01.md",
     "3 Periodic Notes/Daily/2025-09-02.md",
     "3 Periodic Notes/Daily/2025-08-30.md",
-    "3 Periodic Notes/Daily/2025-09-03.md",
     "Zettlekasten/Land my first position as a DevOps Engineer.md",
     "3 Periodic Notes/Daily/2025-08-14.md",
     "3 Periodic Notes/Daily/2025-08-15.md",
@@ -213,13 +235,6 @@
     "3 Periodic Notes/Daily/2025-08-25.md",
     "3 Periodic Notes/Daily/2025-08-26.md",
     "3 Periodic Notes/Daily/2025-08-27.md",
-    "3 Periodic Notes/Daily/2025-08-28.md",
-    "3 Periodic Notes/Daily/2025-08-29.md",
-    "3 Periodic Notes/Daily/2025-09-04.md",
-    "3 Periodic Notes/Daily/2025-09-05.md",
-    "3 Periodic Notes/Daily/2025-09-07.md",
-    "3 Periodic Notes/Daily/2025-09-08.md",
-    "3 Periodic Notes/Daily/2025-09-09.md",
     "0 Inbox/Untitled.base",
     "0 Inbox",
     "ChatGPT Image Sep 6, 2025 at 10_56_37 PM.png",
