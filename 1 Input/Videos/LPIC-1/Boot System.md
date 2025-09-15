@@ -19,7 +19,7 @@ Kernel - core of OS. It needs initial drivers in initramfs to boot. You can send
 
 
 
-Links: [[Linux boot process]]
+Links: [[1 Input/Courses/Linux/Linux boot process]]
 
 202509050819
 
