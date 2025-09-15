@@ -7,6 +7,8 @@ Background process - runs on the background regardless.
 - bg - resume in the background
 - fg - bring last background process into foreground
 - jobs - show background jobs
+- nohup command - it separates the process from current shell
+- 
 
 Links:
 

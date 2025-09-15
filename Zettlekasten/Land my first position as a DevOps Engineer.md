@@ -15,7 +15,7 @@ What should I do to achieve that outcome?
 - [[Be public about my journey - Adventure]]
 - [[Certificates - Adventure]]
 
-Links:
+Links: 
 
 202509030147
 

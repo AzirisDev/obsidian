@@ -4,7 +4,7 @@
 [[First commands on Linux]]
 [[File system commands]]
 [[Buffers in vim]]
-[[Vimtutor]]
+[[Zettlekasten/Vimtutor]]
 [[Installing docker engine]]
 
 Links:
