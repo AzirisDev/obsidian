@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "a8baa65f4395d2d0",
+        "id": "85224cb194143fc9",
         "type": "tabs",
         "children": [
           {
-            "id": "f6b1cffa976bcb38",
+            "id": "7c91e1785d063e69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Periodic Notes/Daily/2025-09-06.md",
+                "file": "3 Periodic Notes/Daily/2025-09-15.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-06"
-            }
-          },
-          {
-            "id": "07223ae3278ba8e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 Periodic Notes/Daily/2025-09-06.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-09-06"
+              "title": "2025-09-15"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "generate",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -187,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -207,37 +192,36 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "07223ae3278ba8e1",
+  "active": "7c91e1785d063e69",
   "lastOpenFiles": [
-    "3 Periodic Notes/Daily/2025-09-05.md",
     "3 Periodic Notes/Daily/2025-09-06.md",
+    "3 Periodic Notes/Daily/2025-09-15.md",
+    "3 Periodic Notes/Daily/2025-09-05.md",
     "3 Periodic Notes/Daily/2025-09-04.md",
-    "3 Periodic Notes/Weekly/2025-W36.md",
-    "conflict-files-obsidian-git.md",
-    "Zettlekasten/systemd let us runs services.md",
-    "Zettlekasten/ls commands for hardware.md",
-    "Zettlekasten/init program.md",
-    "Zettlekasten/Theere is a tool to read kernel level messages - dmesg.md",
-    "Zettlekasten/Programming language - Adventure.md",
-    "Zettlekasten/One cloud provider - Adventure.md",
-    "Zettlekasten/Loadable Kernel modules are built-in in Linux.md",
-    "Zettlekasten/Linux - Adventure.md",
-    "Zettlekasten/Land my first position as a DevOps Engineer.md",
-    "Zettlekasten/Kubernetes - Adventure.md",
-    "Zettlekasten/Kernel provides sysfs to get information and configurations of the hardware.md",
-    "Zettlekasten/Containers - Adventure.md",
-    "Zettlekasten/Certificates - Adventure.md",
-    "Zettlekasten/Be public about my journey - Adventure.md",
-    "1 Input/Videos/LPIC-1/Determine and Configure Hardware.md",
-    "1 Input/Videos/LPIC-1/Boot System.md",
-    "1 Input/Videos/LPIC-1",
-    "1 Input/Videos",
-    "3 Periodic Notes/Yearly/2025.md",
-    "3 Periodic Notes/Monthly/2025-09.md",
     "3 Periodic Notes/Daily/2025-09-03.md",
-    "ChatGPT Image Sep 3, 2025 at 09_24_02 PM.png",
+    "3 Periodic Notes/Daily/2025-08-29.md",
+    "3 Periodic Notes/Daily/2025-08-30.md",
+    "3 Periodic Notes/Daily/2025-09-01.md",
+    "3 Periodic Notes/Daily/2025-09-02.md",
+    "Templates/Daily.md",
+    "3 Periodic Notes/Weekly/2025-W36.md",
+    "Zettlekasten/Theere is a tool to read kernel level messages - dmesg.md",
+    "Zettlekasten/systemd let us runs services.md",
+    "Zettlekasten/init program.md",
+    "1 Input/Videos/LPIC-1/Boot System.md",
+    "1 Input/Videos/LPIC-1/Determine and Configure Hardware.md",
+    "3 Periodic Notes/Monthly/2025-09.md",
+    "1 Input/Courses/Linux/Linux boot process.md",
+    "Zettlekasten/Kernel provides sysfs to get information and configurations of the hardware.md",
+    "Zettlekasten/Loadable Kernel modules are built-in in Linux.md",
+    "Zettlekasten/ls commands for hardware.md",
+    "0 Inbox/Untitled.md",
+    "Zettlekasten/Master Boot Record(MBR).md",
     "2 Output/Posts/X/First Linux commands.md",
     "2 Output/Posts/LinkedIn/First Linux commands.md",
+    "1 Input/Videos/LPIC-1/Untitled.md",
+    "1 Input/Videos/LPIC-1",
+    "ChatGPT Image Sep 3, 2025 at 09_24_02 PM.png",
     "Templates/Yearly",
     "3 Periodic Notes/Yearly",
     "3 Periodic Notes/Weekly",
@@ -250,6 +234,7 @@
     "ChatGPT Image Aug 23, 2025 at 06_40_48 PM 1.png",
     "ChatGPT Image Aug 23, 2025 at 06_40_48 PM.png",
     "0 Inbox/Untitled 1.base",
+    "2 Output/Posts/X",
     "1 Projects/Untitled.canvas",
     "Untitled.canvas"
   ]
