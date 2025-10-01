@@ -5,7 +5,9 @@ There are 3 ways to make posts:
 
 here is my prompt to generate images:
 
-`Generate me a picture of Linux Penguin. Image should not contain any words. Image should in Rick and Morty style of animation. Give a penguin cool, scientific look. No background, choose some one color(maybe little gradient) background, with eye catching color. Also, do not forget that this will be posted on LinkedIn`
+`give me associations to the first post, make it as a movie character or animal or some abstract thing give me one character how do you it as a first post about understanding the topic of a post How do you see the picture in one picture`
+
+`Generate me a picture of it. Image should not contain any sentences. Image should in Rick and Morty style of animation. No background, choose some one color(maybe little gradient) background, with eye catching color. Also, do not forget that this will be posted on LinkedIn`
 
 Here is a link where you can get a prompt of Mischa's post, but you should make your own
 Links: https://www.skool.com/kubecraft/classroom/ff19b221?md=2f63ebb718a341649c094e7713a87c91

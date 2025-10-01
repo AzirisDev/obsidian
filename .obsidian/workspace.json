@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7f89008aab64d7d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlekasten/Users and groups.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Users and groups"
-            }
-          },
-          {
             "id": "a33d3f35fb2486bd",
             "type": "leaf",
             "state": {
@@ -34,8 +20,51 @@
               "icon": "lucide-file",
               "title": "2025-10-01"
             }
+          },
+          {
+            "id": "e167d620fbc2706a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 Periodic Notes/Weekly/2025-W40.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-W40"
+            }
+          },
+          {
+            "id": "5fc9e3dafc7f45da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Output/Posts/LinkedIn/File partitions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "File partitions"
+            }
+          },
+          {
+            "id": "5cf4d943c7b1467b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Input/Courses/Linux/File system navigation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "File system navigation"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "passwd",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,8 +117,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,35 +235,36 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7f89008aab64d7d2",
+  "active": "e167d620fbc2706a",
   "lastOpenFiles": [
-    "3 Periodic Notes/Weekly/2025-W40.md",
     "3 Periodic Notes/Daily/2025-10-01.md",
-    "3 Periodic Notes/Daily/2025-09-29.md",
-    "3 Periodic Notes/Daily/2025-09-30.md",
-    "3 Periodic Notes/Daily/2025-09-28.md",
-    "1 Input/Videos/LPIC-1/Scripts.md",
-    "1 Input/Videos/LPIC-1/Shell essentials.md",
-    "Zettlekasten/User startup files.md",
-    "Zettlekasten/Shell command history.md",
-    "Zettlekasten/Environment variables.md",
-    "1 Input/Courses/Linux/User Environment.md",
-    "Zettlekasten/Aliases.md",
+    "2 Output/Posts/LinkedIn/File partitions.md",
+    "1 Input/Courses/Linux/File system navigation.md",
+    "Gemini_Generated_Image_94rjtv94rjtv94rj.png",
+    "1 Input/Courses/Linux/File Operations.md",
+    "Zettlekasten/Comparing files.md",
+    "Zettlekasten/Removable media.md",
+    "Zettlekasten/Important directories.md",
+    "Zettlekasten/Make posts authentic and effective.md",
+    "Gemini_Generated_Image_244x11244x11244x.png",
+    "Zettlekasten/Network file system.md",
+    "Zettlekasten/Mount points.md",
+    "Zettlekasten/File partition.md",
+    "3 Periodic Notes/Daily/2025-08-27.md",
+    "3 Periodic Notes/Daily/2025-08-26.md",
     "3 Periodic Notes/Daily/2025-08-28.md",
-    "1 Input/Videos/LPIC-1/Managing shared libraries.md",
-    "Zettlekasten/Loadable Kernel modules are built-in in Linux.md",
-    "1 Input/Courses/Linux/Linux command line operations.md",
-    "Zettlekasten/file system hierarchy - FHS.md",
-    "0 Inbox/Untitled.base",
-    "1 Input/Videos/LPIC-1/Hard and soft links.md",
-    "2 Output/Posts/LinkedIn/First Linux commands.md",
-    "1 Input/Videos/LPIC-1/Managing permissions and ownership.md",
-    "Zettlekasten/File ownership.md",
+    "3 Periodic Notes/Daily/2025-08-29.md",
+    "3 Periodic Notes/Daily/2025-08-30.md",
+    "3 Periodic Notes/Daily/2025-08-25.md",
+    "1 Input/Courses/Linux/Processes.md",
+    "3 Periodic Notes/Monthly/2025-10.md",
     "3 Periodic Notes/Monthly/2025-09.md",
-    "1 Input/Videos/LPIC-1/File system integrity.md",
-    "Zettlekasten/Be public about my journey - Adventure.md",
-    "Zettlekasten/Land my first position as a DevOps Engineer.md",
-    "Zettlekasten/Programming language - Adventure.md",
+    "Templates/Monthly.md",
+    "3 Periodic Notes/Monthly/Untitled.md",
+    "Zettlekasten/Users and groups.md",
+    "3 Periodic Notes/Weekly/2025-W40.md",
+    "3 Periodic Notes/Daily/2025-09-29.md",
+    "0 Inbox/Untitled.base",
     "Gemini_Generated_Image_iesuaniesuaniesu.png",
     "Gemini_Generated_Image_qprl5zqprl5zqprl.png",
     "Gemini_Generated_Image_dbkzphdbkzphdbkz.png",
@@ -253,8 +282,6 @@
     "3 Periodic Notes/Daily",
     "3 Periodic Notes",
     "ChatGPT Image Sep 1, 2025 at 05_53_22 PM.png",
-    "ChatGPT Image Aug 28, 2025 at 07_16_57 PM.png",
-    "ChatGPT Image Aug 23, 2025 at 06_40_48 PM 1.png",
     "1 Projects/Untitled.canvas",
     "Untitled.canvas"
   ]
