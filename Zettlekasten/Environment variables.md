@@ -9,6 +9,7 @@ You can view them using "set", "env", "export".
 - HISTFILE - location of bash history
 - SHELL - current shell
 
+Use "." or "source" + script.sh - to run the script without creating a child bash.
 
 
 Links:

@@ -16,6 +16,12 @@ When processing commands, it first checks whether it is internal or external com
 #### Environment variables
 [[Environment variables]]
 
+#### Type of shells
+
+- login & interactive shell - when you login to the terminal
+- non-login & interactive shell - when you open another shell within the shell
+- non-interactive shell - when you just run the command or script
+
 
 Links:
 
