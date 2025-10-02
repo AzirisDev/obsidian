@@ -4,6 +4,8 @@
 	- at 3pm
 	- at tomorrow
 	- at now + 5 minute
+	- atq - show the queue of scheduled jobs
+	- atrm - remove the job
 - cron - Daemon that runs specific tasks on scheduled time
 	- tasks are defined in crontab AKA cron table
 	- it is used for backups, reports, cleanups, scripts
