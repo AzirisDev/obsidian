@@ -12,7 +12,7 @@ Boot loader initializes minimal hardware necessary to boot the system. It is GRU
 
 Kernel - core of OS. It needs initial drivers in initramfs to boot. You can send paramteres via GRUB configs during boot process.
 
-[[Theere is a tool to read kernel level messages - dmesg]]
+[[There is a tool to read kernel level messages - dmesg]]
 
 [[systemd let us runs services]]
 
