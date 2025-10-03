@@ -16,6 +16,8 @@ Newer version of IP, uses 128 bits -> 3.4 * 10^38 unique addresses.
 
 NAT - Network Address Translation - expands IPv4 address to share one external IP address in home.
 
+
+
 Links:
 
 202508291741

@@ -8,63 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e167d620fbc2706a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlekasten/Schedule the process.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Schedule the process"
-            }
-          },
-          {
-            "id": "5cf4d943c7b1467b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 Periodic Notes/Daily/2025-10-02.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-10-02"
-            }
-          },
-          {
             "id": "a5a5c196fd30af1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Input/Videos/LPIC-1/System logging.md",
+                "file": "3 Periodic Notes/Daily/2025-10-03.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "System logging"
+              "title": "2025-10-03"
             }
           },
           {
-            "id": "14ccbda60cdfbae1",
+            "id": "91e00e0bf4c77dcd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlekasten/There is a tool to read kernel level messages - dmesg.md",
+                "file": "1 Input/Videos/LPIC-1/Persisten network Configuration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "There is a tool to read kernel level messages - dmesg"
+              "title": "Persisten network Configuration"
+            }
+          },
+          {
+            "id": "6397942612dbd374",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Input/Videos/LPIC-1/Network fundamentals.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Network fundamentals"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dmes",
+                "query": "network",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -236,36 +222,36 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a5a5c196fd30af1a",
+  "active": "91e00e0bf4c77dcd",
   "lastOpenFiles": [
-    "Zettlekasten/There is a tool to read kernel level messages - dmesg.md",
-    "1 Input/Videos/LPIC-1/System logging.md",
+    "3 Periodic Notes/Daily/2025-10-03.md",
+    "1 Input/Videos/LPIC-1/Persisten network Configuration.md",
+    "1 Input/Videos/LPIC-1/Network fundamentals.md",
+    "1 Input/Courses/Linux/Network operations.md",
+    "Zettlekasten/Every device in network needs IP address.md",
+    "Zettlekasten/Domain name server.md",
+    "3 Periodic Notes/Daily/2025-08-29.md",
+    "0 Inbox/Manage printers and printing.md",
     "3 Periodic Notes/Daily/2025-10-02.md",
+    "1 Input/Videos/LPIC-1/Mail Transfer Agents.md",
+    "Zettlekasten/There is a tool to read kernel level messages - dmesg.md",
+    "Zettlekasten/Schedule the process.md",
+    "3 Periodic Notes/Weekly/2025-W40.md",
+    "1 Input/Videos/LPIC-1/System logging.md",
     "1 Input/Videos/LPIC-1/Boot System.md",
     "1 Input/Videos/LPIC-1/Maintain system time.md",
     "1 Input/Videos/LPIC-1/Localization and globalization.md",
     "1 Input/Videos/LPIC-1/Scheduler with systemd.md",
-    "Zettlekasten/Schedule the process.md",
     "1 Input/Courses/Linux/Processes.md",
     "Zettlekasten/Scheduler and process states.md",
     "Zettlekasten/Types of processes.md",
     "Zettlekasten/Stop and inform users about shutdown.md",
     "3 Periodic Notes/Daily/2025-09-06.md",
     "2 Output/Posts/LinkedIn/Understand processes in Linux.md",
-    "3 Periodic Notes/Weekly/2025-W40.md",
     "2 Output/Posts/X/Understand processes in Linux.md",
     "3 Periodic Notes/Daily/2025-10-01.md",
-    "1 Input/Courses/Linux/File system navigation.md",
-    "2 Output/Posts/LinkedIn/File partitions.md",
     "Gemini_Generated_Image_94rjtv94rjtv94rj.png",
-    "1 Input/Courses/Linux/File Operations.md",
-    "Zettlekasten/Comparing files.md",
-    "Zettlekasten/Removable media.md",
-    "Zettlekasten/Important directories.md",
-    "Zettlekasten/Make posts authentic and effective.md",
     "Gemini_Generated_Image_244x11244x11244x.png",
-    "Zettlekasten/Network file system.md",
-    "Zettlekasten/Mount points.md",
     "0 Inbox/Untitled.base",
     "Gemini_Generated_Image_iesuaniesuaniesu.png",
     "Gemini_Generated_Image_qprl5zqprl5zqprl.png",
