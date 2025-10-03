@@ -103,8 +103,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -224,14 +223,14 @@
   },
   "active": "91e00e0bf4c77dcd",
   "lastOpenFiles": [
-    "3 Periodic Notes/Daily/2025-10-03.md",
+    "0 Inbox/Manage printers and printing.md",
     "1 Input/Videos/LPIC-1/Persisten network Configuration.md",
+    "3 Periodic Notes/Daily/2025-10-03.md",
     "1 Input/Videos/LPIC-1/Network fundamentals.md",
     "1 Input/Courses/Linux/Network operations.md",
     "Zettlekasten/Every device in network needs IP address.md",
     "Zettlekasten/Domain name server.md",
     "3 Periodic Notes/Daily/2025-08-29.md",
-    "0 Inbox/Manage printers and printing.md",
     "3 Periodic Notes/Daily/2025-10-02.md",
     "1 Input/Videos/LPIC-1/Mail Transfer Agents.md",
     "Zettlekasten/There is a tool to read kernel level messages - dmesg.md",
