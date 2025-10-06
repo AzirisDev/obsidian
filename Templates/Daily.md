@@ -3,7 +3,6 @@
 ## Daily deeds & rituals
 
 
-- [ ] Read book for 20 minutes at least
-- [ ] study LPIC-1 for 2 hours combined
+- [ ] study LPIC-1 for 2 hours 20 minutes combined
 
 ## Log

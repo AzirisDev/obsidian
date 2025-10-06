@@ -13,4 +13,3 @@ Here is a link where you can get a prompt of Mischa's post, but you should make 
 Links: https://www.skool.com/kubecraft/classroom/ff19b221?md=2f63ebb718a341649c094e7713a87c91
 
 202508142248
-
