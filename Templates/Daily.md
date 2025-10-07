@@ -3,6 +3,6 @@
 ## Daily deeds & rituals
 
 
-- [ ] study LPIC-1 for 2 hours 20 minutes combined
+- [ ] build Arch Linux for 2 hours
 
 ## Log

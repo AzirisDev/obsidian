@@ -8,59 +8,45 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a5a5c196fd30af1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Output/Posts/LinkedIn/Terminal settings.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Terminal settings"
-            }
-          },
-          {
             "id": "b51893f19d675c4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Output/Posts/LinkedIn/User environment.md",
+                "file": "3 Periodic Notes/Daily/2025-10-07.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "User environment"
+              "title": "2025-10-07"
             }
           },
           {
-            "id": "109c5e6b50b988f7",
+            "id": "4622a0ec04dbbc9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlekasten/Make posts authentic and effective.md",
+                "file": "1 Input/Videos/LPIC-1/Securing data with encryption.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Make posts authentic and effective"
+              "title": "Securing data with encryption"
             }
           },
           {
-            "id": "98a83e423cb4243d",
+            "id": "4ad9aa311f97010b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Output/Posts/LinkedIn/File ownership post.md",
+                "file": "1 Input/Videos/LPIC-1/Setup host security.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "File ownership post"
+              "title": "Setup host security"
             }
           }
         ],
@@ -235,13 +221,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b51893f19d675c4f",
+  "active": "4622a0ec04dbbc9d",
   "lastOpenFiles": [
-    "2 Output/Posts/LinkedIn/File ownership post.md",
-    "2 Output/Posts/LinkedIn/Terminal settings.md",
-    "2 Output/Posts/LinkedIn/User environment.md",
-    "Gemini_Generated_Image_be1a11be1a11be1a.png",
+    "3 Periodic Notes/Daily/2025-10-07.md",
+    "Templates/Daily.md",
+    "1 Input/Videos/LPIC-1/Securing data with encryption.md",
+    "1 Input/Videos/LPIC-1/Setup host security.md",
     "Zettlekasten/Make posts authentic and effective.md",
+    "2 Output/Posts/LinkedIn/User environment.md",
+    "2 Output/Posts/LinkedIn/File ownership post.md",
+    "3 Periodic Notes/Daily/2025-10-06.md",
+    "3 Periodic Notes/Daily/2025-10-05.md",
+    "2 Output/Posts/LinkedIn/Terminal settings.md",
+    "Gemini_Generated_Image_be1a11be1a11be1a.png",
     "Zettlekasten/File ownership.md",
     "Zettlekasten/Shell command history.md",
     "Gemini_Generated_Image_wvetotwvetotwvet.png",
@@ -260,11 +252,6 @@
     "3 Periodic Notes/Daily/2025-09-09.md",
     "3 Periodic Notes/Daily/2025-09-08.md",
     "3 Periodic Notes/Daily/2025-09-07.md",
-    "3 Periodic Notes/Daily/2025-09-06.md",
-    "3 Periodic Notes/Daily/2025-09-05.md",
-    "3 Periodic Notes/Daily/2025-09-04.md",
-    "3 Periodic Notes/Daily/2025-09-03.md",
-    "3 Periodic Notes/Daily/2025-09-02.md",
     "Gemini_Generated_Image_94rjtv94rjtv94rj.png",
     "Gemini_Generated_Image_244x11244x11244x.png",
     "0 Inbox/Untitled.base",
