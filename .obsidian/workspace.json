@@ -13,12 +13,82 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Periodic Notes/Daily/2025-10-07.md",
+                "file": "3 Periodic Notes/Daily/2025-10-08.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-07"
+              "title": "2025-10-08"
+            }
+          },
+          {
+            "id": "9c3c57ba965fdccf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 Periodic Notes/Daily/2025-10-09.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-10-09"
+            }
+          },
+          {
+            "id": "9e57111b0ae87c6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Input/Courses/Arch Linux/Partitioning disk in arch linux.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Partitioning disk in arch linux"
+            }
+          },
+          {
+            "id": "7b9dcd8c2da35e5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Input/Courses/Arch Linux/Arch Linux Start.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arch Linux Start"
+            }
+          },
+          {
+            "id": "1ccd2bb63b79610c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlekasten/partitions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "partitions"
+            }
+          },
+          {
+            "id": "1f66b71d128e591a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Input/Courses/Arch Linux/Arch Linux Start.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arch Linux Start"
             }
           },
           {
@@ -33,20 +103,6 @@
               },
               "icon": "lucide-file",
               "title": "Securing data with encryption"
-            }
-          },
-          {
-            "id": "4ad9aa311f97010b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Input/Videos/LPIC-1/Setup host security.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Setup host security"
             }
           }
         ],
@@ -82,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "generate",
+                "query": "LVM",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +159,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -221,12 +278,29 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4622a0ec04dbbc9d",
+  "active": "9c3c57ba965fdccf",
   "lastOpenFiles": [
-    "3 Periodic Notes/Daily/2025-10-07.md",
-    "Templates/Daily.md",
+    "3 Periodic Notes/Daily/2025-10-08.md",
+    "3 Periodic Notes/Daily/2025-10-09.md",
+    "1 Input/Courses/Arch Linux/Arch Linux Start.md",
+    "1 Input/Courses/Arch Linux/Partitioning disk in arch linux.md",
+    "1 Input/Courses/Arch Linux/Encryption and LVM.md",
+    "1 Input/Videos/LPIC-1/Create partitions and file systems.md",
+    "Zettlekasten/partitions.md",
+    "Zettlekasten/File partition.md",
+    "1 Input/Courses/Arch Linux",
     "1 Input/Videos/LPIC-1/Securing data with encryption.md",
     "1 Input/Videos/LPIC-1/Setup host security.md",
+    "3 Periodic Notes/Monthly/2025-10.md",
+    "3 Periodic Notes/Monthly/2025-09.md",
+    "3 Periodic Notes/Weekly/2025-W41.md",
+    "Templates/Monthly.md",
+    "Templates/Weekly.md",
+    "Templates/Yearly.md",
+    "Templates/Zettle template.md",
+    "Templates/Daily.md",
+    "3 Periodic Notes/Daily/2025-10-07.md",
+    "0 Inbox/Hello my dear sister.md",
     "Zettlekasten/Make posts authentic and effective.md",
     "2 Output/Posts/LinkedIn/User environment.md",
     "2 Output/Posts/LinkedIn/File ownership post.md",
@@ -234,24 +308,8 @@
     "3 Periodic Notes/Daily/2025-10-05.md",
     "2 Output/Posts/LinkedIn/Terminal settings.md",
     "Gemini_Generated_Image_be1a11be1a11be1a.png",
-    "Zettlekasten/File ownership.md",
-    "Zettlekasten/Shell command history.md",
     "Gemini_Generated_Image_wvetotwvetotwvet.png",
-    "3 Periodic Notes/Daily/2025-08-28.md",
-    "Zettlekasten/Environment variables.md",
-    "Zettlekasten/Aliases.md",
-    "1 Input/Courses/Linux/User Environment.md",
-    "Zettlekasten/Root users and privileges.md",
-    "Zettlekasten/Users and groups.md",
-    "Zettlekasten/User startup files.md",
     "Gemini_Generated_Image_zol82zol82zol82z.png",
-    "3 Periodic Notes/Daily/2025-08-27.md",
-    "1 Input/Courses/Linux/File Operations.md",
-    "3 Periodic Notes/Daily/2025-08-26.md",
-    "3 Periodic Notes/Daily/2025-09-10.md",
-    "3 Periodic Notes/Daily/2025-09-09.md",
-    "3 Periodic Notes/Daily/2025-09-08.md",
-    "3 Periodic Notes/Daily/2025-09-07.md",
     "Gemini_Generated_Image_94rjtv94rjtv94rj.png",
     "Gemini_Generated_Image_244x11244x11244x.png",
     "0 Inbox/Untitled.base",
@@ -268,7 +326,6 @@
     "3 Periodic Notes/Weekly",
     "3 Periodic Notes/Monthly",
     "3 Periodic Notes/Daily",
-    "3 Periodic Notes",
     "1 Projects/Untitled.canvas",
     "Untitled.canvas"
   ]
