@@ -19,6 +19,7 @@ Use `iwctl` to work around with wireless network connection.
 Now local machines within the same network can connect to your arch linux
 
 - setfont ter-132b - increase the font
+- setterm -blength 0 - set system beep sound to zero
 
 Links:
 

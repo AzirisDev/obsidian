@@ -8,31 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b51893f19d675c4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 Periodic Notes/Daily/2025-10-08.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-10-08"
-            }
-          },
-          {
             "id": "9c3c57ba965fdccf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Periodic Notes/Daily/2025-10-09.md",
+                "file": "3 Periodic Notes/Daily/2025-10-10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-09"
+              "title": "2025-10-10"
+            }
+          },
+          {
+            "id": "feaf4d57e74631c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Input/Courses/Arch Linux/Encryption and LVM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Encryption and LVM"
             }
           },
           {
@@ -62,51 +62,9 @@
               "icon": "lucide-file",
               "title": "Arch Linux Start"
             }
-          },
-          {
-            "id": "1ccd2bb63b79610c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlekasten/partitions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "partitions"
-            }
-          },
-          {
-            "id": "1f66b71d128e591a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Input/Courses/Arch Linux/Arch Linux Start.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Arch Linux Start"
-            }
-          },
-          {
-            "id": "4622a0ec04dbbc9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Input/Videos/LPIC-1/Securing data with encryption.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Securing data with encryption"
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -159,8 +117,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -278,18 +235,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9c3c57ba965fdccf",
+  "active": "7b9dcd8c2da35e5f",
   "lastOpenFiles": [
-    "3 Periodic Notes/Daily/2025-10-08.md",
-    "3 Periodic Notes/Daily/2025-10-09.md",
-    "1 Input/Courses/Arch Linux/Arch Linux Start.md",
     "1 Input/Courses/Arch Linux/Partitioning disk in arch linux.md",
     "1 Input/Courses/Arch Linux/Encryption and LVM.md",
-    "1 Input/Videos/LPIC-1/Create partitions and file systems.md",
+    "1 Input/Courses/Arch Linux/Arch Linux Start.md",
+    "3 Periodic Notes/Daily/2025-10-10.md",
+    "1 Input/Videos/LPIC-1/Securing data with encryption.md",
     "Zettlekasten/partitions.md",
+    "3 Periodic Notes/Daily/2025-10-09.md",
+    "3 Periodic Notes/Daily/2025-10-08.md",
+    "1 Input/Videos/LPIC-1/Create partitions and file systems.md",
     "Zettlekasten/File partition.md",
     "1 Input/Courses/Arch Linux",
-    "1 Input/Videos/LPIC-1/Securing data with encryption.md",
     "1 Input/Videos/LPIC-1/Setup host security.md",
     "3 Periodic Notes/Monthly/2025-10.md",
     "3 Periodic Notes/Monthly/2025-09.md",
@@ -306,7 +264,6 @@
     "2 Output/Posts/LinkedIn/File ownership post.md",
     "3 Periodic Notes/Daily/2025-10-06.md",
     "3 Periodic Notes/Daily/2025-10-05.md",
-    "2 Output/Posts/LinkedIn/Terminal settings.md",
     "Gemini_Generated_Image_be1a11be1a11be1a.png",
     "Gemini_Generated_Image_wvetotwvetotwvet.png",
     "Gemini_Generated_Image_zol82zol82zol82z.png",
