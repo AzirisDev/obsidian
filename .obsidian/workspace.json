@@ -22,6 +22,62 @@
             }
           },
           {
+            "id": "75843fb965c163cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Input/Courses/Arch Linux/Boot loader in arch linux root.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Boot loader in arch linux root"
+            }
+          },
+          {
+            "id": "3dc165202b5b0367",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Input/Courses/Arch Linux/Mkinitcpio.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mkinitcpio"
+            }
+          },
+          {
+            "id": "b02b0c5bc973193d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Input/Courses/Arch Linux/Setup basic network in arch linux root.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Setup basic network in arch linux root"
+            }
+          },
+          {
+            "id": "67b92b17598c97cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Input/Courses/Arch Linux/Set time and localization in arch linux root.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Set time and localization in arch linux root"
+            }
+          },
+          {
             "id": "feaf4d57e74631c3",
             "type": "leaf",
             "state": {
@@ -64,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +152,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "LVM",
+                "query": "undo ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +173,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -235,12 +292,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7b9dcd8c2da35e5f",
+  "active": "50f82b3a4ad0ae6a",
   "lastOpenFiles": [
-    "1 Input/Courses/Arch Linux/Partitioning disk in arch linux.md",
+    "1 Input/Courses/Arch Linux/Boot loader in arch linux root.md",
+    "3 Periodic Notes/Daily/2025-10-10.md",
+    "Zettlekasten/Boot Loader.md",
+    "1 Input/Courses/Arch Linux/Mkinitcpio.md",
+    "1 Input/Courses/Arch Linux/Setup basic network in arch linux root.md",
+    "1 Input/Courses/Arch Linux/Set time and localization in arch linux root.md",
     "1 Input/Courses/Arch Linux/Encryption and LVM.md",
     "1 Input/Courses/Arch Linux/Arch Linux Start.md",
-    "3 Periodic Notes/Daily/2025-10-10.md",
+    "1 Input/Courses/Arch Linux/Partitioning disk in arch linux.md",
     "1 Input/Videos/LPIC-1/Securing data with encryption.md",
     "Zettlekasten/partitions.md",
     "3 Periodic Notes/Daily/2025-10-09.md",
@@ -259,11 +321,6 @@
     "Templates/Daily.md",
     "3 Periodic Notes/Daily/2025-10-07.md",
     "0 Inbox/Hello my dear sister.md",
-    "Zettlekasten/Make posts authentic and effective.md",
-    "2 Output/Posts/LinkedIn/User environment.md",
-    "2 Output/Posts/LinkedIn/File ownership post.md",
-    "3 Periodic Notes/Daily/2025-10-06.md",
-    "3 Periodic Notes/Daily/2025-10-05.md",
     "Gemini_Generated_Image_be1a11be1a11be1a.png",
     "Gemini_Generated_Image_wvetotwvetotwvet.png",
     "Gemini_Generated_Image_zol82zol82zol82z.png",
