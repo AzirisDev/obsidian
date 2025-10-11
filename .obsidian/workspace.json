@@ -13,16 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Periodic Notes/Daily/2025-10-10.md",
+                "file": "3 Periodic Notes/Daily/2025-10-11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-10"
+              "title": "2025-10-11"
             }
           },
           {
-            "id": "bbf8da44d523bf20",
+            "id": "23278de3a5c8dc94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Input/Courses/Arch Linux/Hyprland as window manager.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hyprland as window manager"
+            }
+          },
+          {
+            "id": "67138bad575f1b3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,105 +50,21 @@
             }
           },
           {
-            "id": "75843fb965c163cb",
+            "id": "d148278fd085831d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Input/Courses/Arch Linux/Boot loader in arch linux root.md",
+                "file": "Zettlekasten/ls commands for hardware.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Boot loader in arch linux root"
-            }
-          },
-          {
-            "id": "3dc165202b5b0367",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Input/Courses/Arch Linux/Mkinitcpio.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mkinitcpio"
-            }
-          },
-          {
-            "id": "b02b0c5bc973193d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Input/Courses/Arch Linux/Setup basic network in arch linux root.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Setup basic network in arch linux root"
-            }
-          },
-          {
-            "id": "67b92b17598c97cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Input/Courses/Arch Linux/Set time and localization in arch linux root.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Set time and localization in arch linux root"
-            }
-          },
-          {
-            "id": "feaf4d57e74631c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Input/Courses/Arch Linux/Encryption and LVM.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Encryption and LVM"
-            }
-          },
-          {
-            "id": "9e57111b0ae87c6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Input/Courses/Arch Linux/Partitioning disk in arch linux.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Partitioning disk in arch linux"
-            }
-          },
-          {
-            "id": "7b9dcd8c2da35e5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Input/Courses/Arch Linux/Arch Linux Start.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Arch Linux Start"
+              "title": "ls commands for hardware"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -153,7 +83,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabeticalReverse",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -166,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "undo ",
+                "query": "hardware",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -305,18 +235,20 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "bbf8da44d523bf20",
+  "active": "67138bad575f1b3b",
   "lastOpenFiles": [
-    "3 Periodic Notes/Daily/2025-10-10.md",
-    "3 Periodic Notes/Daily/2025-10-11.md",
-    "3 Periodic Notes/Weekly/2025-W41.md",
-    "1 Input/Courses/Arch Linux/Boot loader in arch linux root.md",
-    "Zettlekasten/Boot Loader.md",
-    "1 Input/Courses/Arch Linux/Mkinitcpio.md",
-    "1 Input/Courses/Arch Linux/Setup basic network in arch linux root.md",
-    "1 Input/Courses/Arch Linux/Set time and localization in arch linux root.md",
     "1 Input/Courses/Arch Linux/Encryption and LVM.md",
     "1 Input/Courses/Arch Linux/Arch Linux Start.md",
+    "1 Input/Courses/Arch Linux/Setup basic network in arch linux root.md",
+    "1 Input/Courses/Arch Linux/Mkinitcpio.md",
+    "1 Input/Courses/Arch Linux/Boot loader in arch linux root.md",
+    "1 Input/Courses/Arch Linux/Set time and localization in arch linux root.md",
+    "1 Input/Courses/Arch Linux/Hyprland as window manager.md",
+    "3 Periodic Notes/Daily/2025-10-11.md",
+    "Zettlekasten/ls commands for hardware.md",
+    "3 Periodic Notes/Daily/2025-10-10.md",
+    "3 Periodic Notes/Weekly/2025-W41.md",
+    "Zettlekasten/Boot Loader.md",
     "1 Input/Courses/Arch Linux/Partitioning disk in arch linux.md",
     "1 Input/Videos/LPIC-1/Securing data with encryption.md",
     "Zettlekasten/partitions.md",
@@ -332,8 +264,6 @@
     "Templates/Weekly.md",
     "Templates/Yearly.md",
     "Templates/Zettle template.md",
-    "Templates/Daily.md",
-    "3 Periodic Notes/Daily/2025-10-07.md",
     "Gemini_Generated_Image_be1a11be1a11be1a.png",
     "Gemini_Generated_Image_wvetotwvetotwvet.png",
     "Gemini_Generated_Image_zol82zol82zol82z.png",

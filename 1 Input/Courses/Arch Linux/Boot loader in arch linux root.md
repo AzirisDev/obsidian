@@ -13,9 +13,16 @@ initrd /initramfs-linux.img
 
 options rd.luks.name=<device-UUID>=volumegroup root=/dev/volumegroup/root rw 
 ```
+- `vim ../loader.conf` and put inside here:
+```
+timeout 2
+default arch.conf
+console-mode max
+editor no
+```
 
 Now create the user, also make it a root user.
-- `useradd azim`
+- `useradd -m azim`
 - `usermod -aG wheel azim` - add azim to wheel group, which is kinda root user
 - `visudo` and uncomment wheel group
 - `passwd` - set the root password
