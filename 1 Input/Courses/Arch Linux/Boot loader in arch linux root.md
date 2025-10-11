@@ -21,7 +21,7 @@ Now create the user, also make it a root user.
 - `passwd` - set the root password
 - `passwd azim` - set the users password
 
-Remove the USB and reboot. Login and you are ready to go. Connect to wifi. Download `pacman -Syu curl openssh bash-completion` , `systemctl enable sshd.service & systemctl enable sshd.service`  to be able to ssh to that computer. 
+Remove the USB and reboot. Login and you are ready to go. Connect to wifi. Download `pacman -Syu curl openssh bash-completion htop` , `systemctl enable sshd.service & systemctl enable sshd.service`  to be able to ssh to that computer. 
 
 DONE! You can boot your computer.
 
