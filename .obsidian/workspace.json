@@ -8,21 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9c3c57ba965fdccf",
+            "id": "27351b68fbf0ed19",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Periodic Notes/Daily/2025-10-11.md",
+                "file": "2 Output/Posts/LinkedIn/Hands-on networking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-11"
+              "title": "Hands-on networking"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "232266382d76ea6d",
+        "type": "tabs",
+        "children": [
           {
-            "id": "23278de3a5c8dc94",
+            "id": "da1fe74bcc8fee77",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,37 +40,8 @@
               "icon": "lucide-file",
               "title": "Hyprland as window manager"
             }
-          },
-          {
-            "id": "67138bad575f1b3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Input/Courses/Arch Linux/Boot loader in arch linux root.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Boot loader in arch linux root"
-            }
-          },
-          {
-            "id": "d148278fd085831d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlekasten/ls commands for hardware.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ls commands for hardware"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -83,7 +60,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime",
+                "sortOrder": "byCreatedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -96,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hardware",
+                "query": "replace ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 Periodic Notes/Daily/2025-09-03.md",
+                "file": "1 Input/Courses/Arch Linux/Hyprland as window manager.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-09-03"
+              "title": "Outline of Hyprland as window manager"
             }
           },
           {
@@ -235,35 +212,39 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "67138bad575f1b3b",
+  "active": "da1fe74bcc8fee77",
   "lastOpenFiles": [
-    "1 Input/Courses/Arch Linux/Encryption and LVM.md",
+    "3 Periodic Notes/Daily/2025-10-16.md",
     "1 Input/Courses/Arch Linux/Arch Linux Start.md",
+    "1 Input/Courses/Arch Linux/Partitioning disk in arch linux.md",
     "1 Input/Courses/Arch Linux/Setup basic network in arch linux root.md",
     "1 Input/Courses/Arch Linux/Mkinitcpio.md",
-    "1 Input/Courses/Arch Linux/Boot loader in arch linux root.md",
     "1 Input/Courses/Arch Linux/Set time and localization in arch linux root.md",
-    "1 Input/Courses/Arch Linux/Hyprland as window manager.md",
-    "3 Periodic Notes/Daily/2025-10-11.md",
-    "Zettlekasten/ls commands for hardware.md",
-    "3 Periodic Notes/Daily/2025-10-10.md",
-    "3 Periodic Notes/Weekly/2025-W41.md",
-    "Zettlekasten/Boot Loader.md",
-    "1 Input/Courses/Arch Linux/Partitioning disk in arch linux.md",
-    "1 Input/Videos/LPIC-1/Securing data with encryption.md",
-    "Zettlekasten/partitions.md",
-    "3 Periodic Notes/Daily/2025-10-09.md",
-    "3 Periodic Notes/Daily/2025-10-08.md",
-    "1 Input/Videos/LPIC-1/Create partitions and file systems.md",
-    "Zettlekasten/File partition.md",
+    "1 Input/Courses/Arch Linux/Encryption and LVM.md",
+    "Zettlekasten/Vimtutor.md",
+    "2 Output/Posts/LinkedIn/Hands-on networking.md",
+    "3 Periodic Notes/Daily/2025-10-14.md",
+    "3 Periodic Notes/Daily/2025-10-13.md",
+    "3 Periodic Notes/Daily/2025-10-12.md",
+    "3 Periodic Notes/Daily/2025-10-15.md",
+    "2 Output/Posts/LinkedIn/Networking in Linux.md",
+    "3 Periodic Notes/Daily/2025-08-29.md",
+    "2 Output/Posts/LinkedIn/Advanced text manipulation in Linux.md",
+    "2 Output/Posts/LinkedIn/Text manipulation in Linux.md",
+    "Zettlekasten/Make posts authentic and effective.md",
+    "1 Input/Courses/Linux/Network operations.md",
+    "Zettlekasten/Every device in network needs IP address.md",
+    "Gemini_Generated_Image_tid4c5tid4c5tid4.png",
+    "Gemini_Generated_Image_wqkrwtwqkrwtwqkr.png",
+    "Zettlekasten/Domain name server.md",
+    "Gemini_Generated_Image_a24baza24baza24b.png",
+    "Gemini_Generated_Image_ast94kast94kast9.png",
+    "1 Input/Courses/Linux/Manipulate texts.md",
+    "Zettlekasten/File manipulation programs.md",
+    "Zettlekasten/Text processing language.md",
+    "Zettlekasten/Stream editor.md",
+    "Zettlekasten/Working with large files.md",
     "1 Input/Courses/Arch Linux",
-    "1 Input/Videos/LPIC-1/Setup host security.md",
-    "3 Periodic Notes/Monthly/2025-10.md",
-    "3 Periodic Notes/Monthly/2025-09.md",
-    "Templates/Monthly.md",
-    "Templates/Weekly.md",
-    "Templates/Yearly.md",
-    "Templates/Zettle template.md",
     "Gemini_Generated_Image_be1a11be1a11be1a.png",
     "Gemini_Generated_Image_wvetotwvetotwvet.png",
     "Gemini_Generated_Image_zol82zol82zol82z.png",
@@ -271,11 +252,7 @@
     "Gemini_Generated_Image_244x11244x11244x.png",
     "0 Inbox/Untitled.base",
     "Gemini_Generated_Image_iesuaniesuaniesu.png",
-    "Gemini_Generated_Image_qprl5zqprl5zqprl.png",
-    "Gemini_Generated_Image_dbkzphdbkzphdbkz.png",
-    "ChatGPT Image Sep 15, 2025 at 05_31_45 PM.png",
     "0 Inbox",
-    "ChatGPT Image Sep 6, 2025 at 10_56_37 PM.png",
     "1 Input/Videos/LPIC-1",
     "1 Input/Videos",
     "Templates/Yearly",
