@@ -4,49 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "b97836e5599f46b2",
+        "id": "ce8b9ceb5c50dfde",
         "type": "tabs",
         "children": [
           {
-            "id": "a5739112ec1604b3",
+            "id": "e9ce2e27c934e86b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Periodic Notes/Daily/2025-10-16.md",
+                "file": "3 Periodic Notes/Daily/2025-10-20.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-16"
+              "title": "2025-10-20"
             }
           },
           {
-            "id": "3026473c6edfc546",
+            "id": "966617da50ef01c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Input/Courses/Arch Linux/Window rules in wayland.md",
+                "file": "1 Input/Courses/Arch Linux/Docker and Dev pod in Arch Linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Window rules in wayland"
-            }
-          },
-          {
-            "id": "11758fbca7946af7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Input/Courses/Arch Linux/AUR.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AUR"
+              "title": "Docker and Dev pod in Arch Linux"
             }
           }
         ],
@@ -82,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "replace ",
+                "query": "generate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Input/Courses/Arch Linux/Window rules in wayland.md",
+                "file": "1 Input/Courses/Arch Linux/Docker and Dev pod in Arch Linux.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Window rules in wayland"
+              "title": "Outline of Docker and Dev pod in Arch Linux"
             }
           },
           {
@@ -221,38 +207,38 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3026473c6edfc546",
+  "active": "966617da50ef01c1",
   "lastOpenFiles": [
-    "1 Input/Courses/Arch Linux/Window rules in wayland.md",
-    "3 Periodic Notes/Daily/2025-10-16.md",
-    "1 Input/Courses/Arch Linux/AUR.md",
-    "1 Input/Courses/Arch Linux/Hyprland as window manager.md",
-    "2 Output/Posts/LinkedIn/Hands-on networking.md",
+    "1 Input/Courses/Arch Linux/Docker and Dev pod in Arch Linux.md",
+    "3 Periodic Notes/Daily/2025-10-20.md",
+    "3 Periodic Notes/Weekly/2025-W43.md",
+    "3 Periodic Notes/Weekly/2025-W42.md",
+    "3 Periodic Notes/Weekly/2025-W41.md",
+    "3 Periodic Notes/Weekly/2025-W40.md",
+    "3 Periodic Notes/Daily/2025-10-19.md",
+    "3 Periodic Notes/Daily/2025-10-18.md",
+    "3 Periodic Notes/Daily/2025-10-17.md",
+    "1 Input/Courses/Arch Linux/Lock Screen and Idle Daemon.md",
+    "1 Input/Courses/Arch Linux/Security in Arch linux.md",
     "1 Input/Courses/Arch Linux/Arch Linux Start.md",
-    "1 Input/Courses/Arch Linux/Partitioning disk in arch linux.md",
     "1 Input/Courses/Arch Linux/Setup basic network in arch linux root.md",
-    "1 Input/Courses/Arch Linux/Mkinitcpio.md",
     "1 Input/Courses/Arch Linux/Set time and localization in arch linux root.md",
     "1 Input/Courses/Arch Linux/Encryption and LVM.md",
-    "Zettlekasten/Vimtutor.md",
-    "3 Periodic Notes/Daily/2025-10-14.md",
-    "3 Periodic Notes/Daily/2025-10-13.md",
-    "3 Periodic Notes/Daily/2025-10-12.md",
-    "3 Periodic Notes/Daily/2025-10-15.md",
-    "2 Output/Posts/LinkedIn/Networking in Linux.md",
-    "3 Periodic Notes/Daily/2025-08-29.md",
-    "2 Output/Posts/LinkedIn/Advanced text manipulation in Linux.md",
-    "2 Output/Posts/LinkedIn/Text manipulation in Linux.md",
+    "1 Input/Courses/Arch Linux/Partitioning disk in arch linux.md",
+    "1 Input/Courses/Arch Linux/Waybar.md",
+    "3 Periodic Notes/Daily/2025-10-16.md",
+    "2 Output/Posts/LinkedIn/First harsh lesson with Arch linux - check your internet connection.md",
+    "1 Input/Courses/Arch Linux/AUR.md",
+    "2 Output/Posts/LinkedIn/Hands-on networking.md",
     "Zettlekasten/Make posts authentic and effective.md",
-    "1 Input/Courses/Linux/Network operations.md",
-    "Zettlekasten/Every device in network needs IP address.md",
+    "1 Input/Courses/Arch Linux/Mkinitcpio.md",
+    "1 Input/Courses/Arch Linux/Window rules in wayland.md",
+    "1 Input/Courses/Arch Linux/Hyprland as window manager.md",
+    "Zettlekasten/Vimtutor.md",
     "Gemini_Generated_Image_tid4c5tid4c5tid4.png",
     "Gemini_Generated_Image_wqkrwtwqkrwtwqkr.png",
-    "Zettlekasten/Domain name server.md",
     "Gemini_Generated_Image_a24baza24baza24b.png",
     "Gemini_Generated_Image_ast94kast94kast9.png",
-    "1 Input/Courses/Linux/Manipulate texts.md",
-    "Zettlekasten/File manipulation programs.md",
     "1 Input/Courses/Arch Linux",
     "Gemini_Generated_Image_be1a11be1a11be1a.png",
     "Gemini_Generated_Image_wvetotwvetotwvet.png",
