@@ -24,4 +24,4 @@ Follow me for practical deep dives into Linux and DevOps fundamentals.
 
 #Linux #DevOps #Kernel #SystemAdministration #BootProcess
 
-![[conductor-leads-orchestra-holding-his-baton-with-soft-lighting-warm-light-him_449728-5497.jpg]]
+![[conductor-leads-orchestra-holding-his-baton-with-soft-lighting-warm-light-him_449728-5497.png]]
