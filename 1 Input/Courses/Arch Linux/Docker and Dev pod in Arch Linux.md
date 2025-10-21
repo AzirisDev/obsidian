@@ -5,7 +5,7 @@ Dev containers - prefigured setup that lives inside isolated space.
 Now we need DevPod - tool to create reproducible developer containers.
 - `yay devpod`
 - create symlink to easy usage: `ln -sf /usr/bin/devpod-cli /usr/bin/devpod`
--  `devpod editor none` - usually we start it with VsCode or Jetbrains
+-  `devpod ide none` - usually we start it with VsCode or Jetbrains
 -   `devpod provider add docker`
 
 We setup the devpod. Now we move to dev container json file. It is configuration file.
