@@ -1,0 +1,47 @@
+#!/bin/bash
+
+# Set environment variables for repository
+export AWS_ACCESS_KEY_ID="123"
+export AWS_SECRET_ACCESS_KEY="123"
+export RESTIC_REPOSITORY="abc"
+export RESTIC_PASSWORD="abc"
+
+# Run the backup for system files only
+echo "Starting system backup at $(date)"
+restic backup \
+  /etc \
+  /boot \
+  --tag "system" \
+  --verbose
+
+# Maintain backups - Keep 7 daily, 4 weekly, and 12 monthly backups
+echo "Pruning old backups..."
+restic forget \
+  --keep-daily 7 \
+  --keep-weekly 4 \
+  --keep-monthly 12 \
+  --prune
+
+export RESTIC_PASSWORD="abc"
+
+# Synology SFTP backup for system files
+echo "Starting system Synology backup at $(date)"
+restic -r "sftp::/Backups/45.52.02-mimir-system" \
+  -o sftp.command="ssh mischa@192.168.120.186 -i /root/.ssh/script_keys/synology_root_key -s sftp" \
+  backup \
+  /etc \
+  /boot \
+  --tag "system-synology" \
+  --verbose
+
+# Synology pruning
+echo "Pruning old Synology backups..."
+restic -r "sftp::/Backups/45.52.02-mimir-system" \
+  -o sftp.command="ssh mischa@192.168.120.186 -i /root/.ssh/script_keys/synology_root_key -s sftp" \
+  forget \
+  --keep-daily 7 \
+  --keep-weekly 4 \
+  --keep-monthly 12 \
+  --prune
+
+echo "System backup completed at $(date)"

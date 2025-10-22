@@ -1,0 +1,112 @@
+#!/bin/bash
+
+
+# Set environment variables for repository
+# For testing on local SSD:
+# export RESTIC_REPOSITORY="/run/media/mischa/Extreme SSD/restictest"
+# export RESTIC_PASSWORD="abc"
+
+# For production with S3/iDrive e2 (uncomment when ready):
+export AWS_ACCESS_KEY_ID="123"
+export AWS_SECRET_ACCESS_KEY="123"
+export RESTIC_REPOSITORY="abc"
+export RESTIC_PASSWORD="abc"
+
+# Export package lists
+echo "Exporting package lists..."
+mkdir -p ~/Backups/package-lists
+pacman -Qqe >/home/mischa/Backups/package-lists/all-packages.txt
+pacman -Qqen >/home/mischa/Backups/package-lists/native-packages.txt
+pacman -Qqem >/home/mischa/Backups/package-lists/foreign-packages.txt
+
+# Run the backup
+echo "Starting backup at $(date)"
+
+restic backup \
+  /home/mischa \
+  --exclude="/home/mischa/.cache" \
+  --exclude="*/Cache/*" \
+  --exclude="*/cache/*" \
+  --exclude="*/node_modules/*" \
+  --exclude="/home/mischa/Downloads" \
+  --exclude="/home/mischa/.local/share/Steam" \
+  --exclude="/home/mischa/.steam" \
+  --exclude="/home/mischa/Games" \
+  --exclude="/home/mischa/.wine" \
+  --exclude="/home/mischa/yay" \
+  --exclude="/home/mischa/.cargo/registry" \
+  --exclude="/home/mischa/.cargo/git" \
+  --exclude="/home/mischa/.npm" \
+  --exclude="/home/mischa/.mozilla/firefox/" \
+  --exclude="/home/mischa/.local/share/Trash" \
+  --exclude="/home/mischa/.ollama" \
+  --exclude="/home/mischa/Applications" \
+  --exclude="/home/mischa/crawlai" \
+  --exclude="/home/mischa/Output" \
+  --exclude="*.tmp" \
+  --exclude="*.log" \
+  --exclude="**/.env" \
+  --exclude="**/.envrc" \
+  --tag "home" \
+  --verbose
+
+# Maintain backups - Keep 7 daily, 4 weekly, and 12 monthly backups
+echo "Pruning old backups..."
+restic forget \
+  --keep-daily 7 \
+  --keep-weekly 4 \
+  --keep-monthly 12 \
+  --prune \
+  --tag "full-backup"
+
+# Check repository integrity
+echo "Checking repository integrity..."
+restic check
+
+# Synology SFTP backup
+
+export RESTIC_PASSWORD="abc"
+
+echo "Starting Synology backup at $(date)"
+restic -r "sftp::/Backups/45.52.01-mimir-home" \
+  -o sftp.command="ssh mischa@192.168.120.186 -i /home/mischa/.ssh/script_keys/synology_user_key -s sftp" \
+  backup \
+  /home/mischa \
+  --exclude="/home/mischa/.cache" \
+  --exclude="*/Cache/*" \
+  --exclude="*/cache/*" \
+  --exclude="*/node_modules/*" \
+  --exclude="/home/mischa/Downloads" \
+  --exclude="/home/mischa/.local/share/Steam" \
+  --exclude="/home/mischa/.steam" \
+  --exclude="/home/mischa/Games" \
+  --exclude="/home/mischa/.wine" \
+  --exclude="/home/mischa/yay" \
+  --exclude="/home/mischa/.cargo/registry" \
+  --exclude="/home/mischa/.cargo/git" \
+  --exclude="/home/mischa/.npm" \
+  --exclude="/home/mischa/.mozilla/firefox/" \
+  --exclude="/home/mischa/.local/share/Trash" \
+  --exclude="/home/mischa/.ollama" \
+  --exclude="/home/mischa/Applications" \
+  --exclude="/home/mischa/crawlai" \
+  --exclude="/home/mischa/Output" \
+  --exclude="*.tmp" \
+  --exclude="*.log" \
+  --exclude="**/.env" \
+  --exclude="**/.envrc" \
+  --tag "home-synology" \
+  --verbose
+
+# Synology pruning
+echo "Pruning old Synology backups..."
+restic -r "sftp::/Backups/45.52.01-mimir-home" \
+  -o sftp.command="ssh mischa@192.168.120.186 -i /home/mischa/.ssh/script_keys/synology_user_key -s sftp" \
+  forget \
+  --keep-daily 7 \
+  --keep-weekly 4 \
+  --keep-monthly 12 \
+  --prune \
+  --tag "home-synology"
+
+echo "Backup completed at $(date)"

@@ -24,26 +24,4 @@ Follow me for more Linux and DevOps insights that actually build real skill.
 
 #Linux #DevOps #SystemAdministration #KernelModules #CloudNative
 
-image:
-
-**The Mechanic in the Machine Shop**
-
-Here’s the vision:
-
-- The **hardware** is a powerful engine — full of moving parts, each critical but complex.
-    
-- The **commands** (`lspci`, `lsusb`, `lshw`, etc.) are the _tools_ — precision instruments revealing what’s under the hood.
-    
-- The **kernel modules** are the _custom engine parts_ — they can be installed, removed, or tuned for peak performance.
-    
-- The **sysadmin or engineer** is the _mechanic_ — listening to every click and hum, understanding how each subsystem interacts, keeping the machine alive.
-    
-
-🎬 **If it were a movie scene:**  
-A dimly lit garage. The mechanic (you) rolls up sleeves, opens the hood of a roaring Linux engine. Tools gleam. With each command typed, gears turn, modules load, and the system hums smoothly again.
-
-That image perfectly represents the essence of the second post:
-
-> “Managing Linux hardware isn’t guesswork, it’s craftsmanship — knowing which tool to use, and when.”
-
-Generate me a picture of it. Image should not contain any sentences. Image should in Rick and Morty style of animation. No background, choose some one color(maybe little gradient) background, with eye catching color. Also, do not forget that this will be posted on LinkedIn. The character should not be exactly Rick or morty. It can be just a random character.
+![[Gemini_Generated_Image_31c6xu31c6xu31c6.png]]
