@@ -3,6 +3,6 @@
 ## Daily deeds & rituals
 
 
-- [ ] build Arch Linux for 2 hours
+- [ ] learn python for 2 hours
 
 ## Log

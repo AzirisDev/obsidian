@@ -4,44 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "5aca7b8e24a58c65",
+        "id": "2e25a6ae41188066",
         "type": "tabs",
         "children": [
           {
-            "id": "da3d7aee44839ac4",
+            "id": "e7fac7072f2dd5bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Periodic Notes/Weekly/2025-W44.md",
+                "file": "3 Periodic Notes/Daily/2025-10-30.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-W44"
+              "title": "2025-10-30"
             }
-          }
-        ]
-      },
-      {
-        "id": "1db1d51fa9e82cf5",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "cf08281227098135",
+            "id": "95d3892bec4af699",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Periodic Notes/Weekly/2025-W43.md",
+                "file": "1 Input/Courses/Python/File Input & Output in python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-W43"
+              "title": "File Input & Output in python"
+            }
+          },
+          {
+            "id": "a5e3b2af938d5f43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Input/Courses/Python/Unit tests in python.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unit tests in python"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "restic",
+                "query": "strip",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +103,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -162,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 Periodic Notes/Weekly/2025-W43.md",
+                "file": "1 Input/Courses/Python/File Input & Output in python.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-W43"
+              "title": "Outline of File Input & Output in python"
             }
           },
           {
@@ -212,54 +222,54 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cf08281227098135",
+  "active": "95d3892bec4af699",
   "lastOpenFiles": [
+    "3 Periodic Notes/Daily/2025-10-30.md",
+    "1 Input/Courses/Python/File Input & Output in python.md",
+    "1 Input/Courses/Python/Unit tests in python.md",
+    "File I/O in python.md",
+    "File I",
     "3 Periodic Notes/Weekly/2025-W44.md",
-    "3 Periodic Notes/Monthly/2025-10.md",
-    "Zettlekasten/Land my first position as a DevOps Engineer.md",
-    "Zettlekasten/Programming language - Adventure.md",
-    "Zettlekasten/Linux - Adventure.md",
-    "3 Periodic Notes/Weekly/2025-W43.md",
-    "3 Periodic Notes/Daily/2025-10-25.md",
-    "1 Input/Job/Github action automations in IDT.md",
-    "3 Periodic Notes/Daily/2025-10-24.md",
-    "3 Periodic Notes/Daily/2025-10-23.md",
-    "3 Periodic Notes/Daily/2025-10-22.md",
-    "1 Input/Courses/Arch Linux/It is recommended to use restic..md",
-    "1 Input/Courses/Arch Linux/Backup to S3 and Synology details here.md",
-    "1 Input/Courses/Arch Linux/Backing up with Restic.md",
+    "1 Input/Job/Apple pay in money transfer.md",
+    "3 Periodic Notes/Daily/2025-10-29.md",
+    "1 Input/Courses/Python/Python libraries.md",
+    "2 Output/Posts/LinkedIn/The Power of Shutdown Commands in Linux.md",
+    "2 Output/Posts/LinkedIn/Understanding Runlevels and Targets.md",
+    "2 Output/Posts/LinkedIn/Accountability Over Comparison.md",
+    "1 Input/Courses/Python/Make my own library.md",
+    "1 Input/Courses/Python/Python Exceptions.md",
+    "3 Periodic Notes/Daily/2025-10-28.md",
+    "Gemini_Generated_Image_5ek2145ek2145ek2.png",
+    "Zettlekasten/Make posts authentic and effective.md",
+    "3 Periodic Notes/Daily/2025-09-08.md",
+    "1 Input/Videos/LPIC-1/Design disk layouts.md",
+    "1 Input/Videos/LPIC-1/Runlevels in sysV and targets in systemd.md",
+    "Gemini_Generated_Image_i43ylzi43ylzi43y.png",
+    "Gemini_Generated_Image_we6wsqwe6wsqwe6w.png",
+    "Zettlekasten/Stop and inform users about shutdown.md",
+    "3 Periodic Notes/Daily/2025-09-07.md",
+    "Templates/Daily.md",
+    "1 Input/Courses/Python/Python loops.md",
+    "1 Input/Courses/Python/Python conditionals.md",
+    "3 Periodic Notes/Daily/2025-10-27.md",
+    "3 Periodic Notes/Daily/2025-10-26.md",
+    "1 Input/Courses/Python/Python functions & variables.md",
+    "1 Input/Courses/Python",
     "ChatGPT Image Oct 22, 2025 at 06_00_18 PM.png",
-    "3 Periodic Notes/Daily/2025-10-21.md",
-    "3 Periodic Notes/Daily/2025-10-20.md",
     "system_backup_service.txt",
     "home_backup_service.txt",
     "restic-system-backup.txt",
     "restic-home-backup.txt",
-    "3 Periodic Notes/Daily/2025-09-08.md",
-    "3 Periodic Notes/Daily/2025-09-07.md",
-    "2 Output/Posts/LinkedIn/Linux Boot Process (Technical Education).md",
-    "Zettlekasten/Make posts authentic and effective.md",
-    "2 Output/Posts/LinkedIn/systemd & Service Management (Practical Skills).md",
     "Gemini_Generated_Image_r7xj8fr7xj8fr7xj.png",
-    "1 Input/Videos/LPIC-1/Boot System.md",
-    "Zettlekasten/systemd let us runs services.md",
-    "Zettlekasten/There is a tool to read kernel level messages - dmesg.md",
-    "Zettlekasten/Zettlekasten - what is it?.md",
-    "1 Input/Videos/LPIC-1/Determine and Configure Hardware.md",
     "Gemini_Generated_Image_31c6xu31c6xu31c6.png",
     "1 Input/Job",
     "conductor-leads-orchestra-holding-his-baton-with-soft-lighting-warm-light-him_449728-5497.png",
     "conductor-leads-orchestra-holding-his-baton-with-soft-lighting-warm-light-him_449728-5497.jpg",
     "Gemini_Generated_Image_tid4c5tid4c5tid4.png",
     "Gemini_Generated_Image_wqkrwtwqkrwtwqkr.png",
-    "Gemini_Generated_Image_a24baza24baza24b.png",
-    "Gemini_Generated_Image_ast94kast94kast9.png",
     "1 Input/Courses/Arch Linux",
-    "Gemini_Generated_Image_be1a11be1a11be1a.png",
     "0 Inbox/Untitled.base",
     "0 Inbox",
-    "1 Input/Videos/LPIC-1",
-    "1 Input/Videos",
     "1 Projects/Untitled.canvas",
     "Untitled.canvas"
   ]
