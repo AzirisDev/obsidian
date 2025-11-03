@@ -1,4 +1,4 @@
-### Adding iOS device to the project
+-### Adding iOS device to the project
 Go to `developer.apple.com` -> 'Certificates, Identifiers & Profiles' -> Devices -> add the device of a user.
 
 Now we need to update the profile.
@@ -47,6 +47,10 @@ To safely store in GitHub Secrets, convert the `.p12` files into base64 string
 - `base64 -i Certificates.p12 | pbcopy`
 
 Add certificate and password to the github action secrets.
+
+
+### If you update certificate
+take a look at `apps/boss_revolution/ios/ExportOptionsDev.plist` also. There might be pointers to certificate.
 
 ### People to connect
 - if it is trouble with running machine - @yulyan.glonti
