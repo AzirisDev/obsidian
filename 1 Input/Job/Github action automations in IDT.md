@@ -1,4 +1,4 @@
--### Adding iOS device to the project
+### Adding iOS device to the project
 Go to `developer.apple.com` -> 'Certificates, Identifiers & Profiles' -> Devices -> add the device of a user.
 
 Now we need to update the profile.
