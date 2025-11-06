@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "493b624f44d1d85f",
+            "id": "a9ca025889645107",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Periodic Notes/Daily/2025-11-04.md",
+                "file": "1 Input/Videos/LPIC-1/Design disk layouts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-04"
-            }
-          },
-          {
-            "id": "c7a86b099b07679e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Input/Courses/Python/Et cetera in python.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Et cetera in python"
-            }
-          },
-          {
-            "id": "e5c54100b94a0d67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Input/Courses/Python/OOP in python.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "OOP in python"
+              "title": "Design disk layouts"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -82,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "strip",
+                "query": "gparted",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Input/Courses/Python/Et cetera in python.md",
+                "file": "1 Input/Videos/LPIC-1/Design disk layouts.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Et cetera in python"
+              "title": "Outline of Design disk layouts"
             }
           },
           {
@@ -221,36 +192,36 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c7a86b099b07679e",
+  "active": "a9ca025889645107",
   "lastOpenFiles": [
-    "1 Input/Job/Github action automations in IDT.md",
-    "1 Input/Courses/Python/Et cetera in python.md",
-    "1 Input/Courses/Python/OOP in python.md",
-    "3 Periodic Notes/Daily/2025-11-04.md",
-    "3 Periodic Notes/Daily/2025-11-03.md",
-    "3 Periodic Notes/Weekly/2025-W45.md",
-    "1 Input/Courses/Python/Regex in python.md",
-    "3 Periodic Notes/Weekly/2025-W44.md",
-    "3 Periodic Notes/Daily/2025-11-02.md",
-    "3 Periodic Notes/Daily/2025-11-01.md",
-    "3 Periodic Notes/Daily/2025-10-31.md",
-    "1 Input/Job/Apple pay in money transfer.md",
-    "3 Periodic Notes/Daily/2025-10-30.md",
-    "1 Input/Courses/Python/File Input & Output in python.md",
-    "1 Input/Courses/Python/Unit tests in python.md",
-    "File I/O in python.md",
-    "File I",
-    "3 Periodic Notes/Daily/2025-10-29.md",
-    "1 Input/Courses/Python/Python libraries.md",
+    "3 Periodic Notes/Monthly/2025-11.md",
+    "3 Periodic Notes/Daily/2025-09-09.md",
+    "3 Periodic Notes/Daily/2025-09-08.md",
+    "3 Periodic Notes/Daily/2025-09-10.md",
+    "1 Input/Videos/LPIC-1/Design disk layouts.md",
+    "2 Output/Posts/LinkedIn/Accountability Over Comparison.md",
     "2 Output/Posts/LinkedIn/The Power of Shutdown Commands in Linux.md",
     "2 Output/Posts/LinkedIn/Understanding Runlevels and Targets.md",
-    "2 Output/Posts/LinkedIn/Accountability Over Comparison.md",
-    "1 Input/Courses/Python/Make my own library.md",
-    "1 Input/Courses/Python/Python Exceptions.md",
-    "3 Periodic Notes/Daily/2025-10-28.md",
+    "2 Output/Posts/LinkedIn/systemd & Service Management (Practical Skills).md",
+    "2 Output/Posts/LinkedIn/Linux Boot Process (Technical Education).md",
+    "2 Output/Posts/LinkedIn/Mastering Linux Hardware Management Like a Pro.md",
+    "2 Output/Posts/LinkedIn/How Linux actually boots and connects to your hardware.md",
+    "2 Output/Posts/LinkedIn/First harsh lesson with Arch linux - check your internet connection.md",
+    "2 Output/Posts/LinkedIn/Hands-on networking.md",
+    "2 Output/Posts/LinkedIn/Networking in Linux.md",
+    "2 Output/Posts/LinkedIn/Advanced text manipulation in Linux.md",
+    "2 Output/Posts/LinkedIn/Text manipulation in Linux.md",
+    "2 Output/Posts/LinkedIn/File ownership post.md",
+    "2 Output/Posts/LinkedIn/Terminal settings.md",
+    "2 Output/Posts/LinkedIn/User environment.md",
+    "2 Output/Posts/LinkedIn/File partitions.md",
+    "2 Output/Posts/LinkedIn/Manage processes in Linux.md",
+    "2 Output/Posts/LinkedIn/Understand processes in Linux.md",
+    "2 Output/Posts/LinkedIn/Linux boot process.md",
+    "2 Output/Posts/LinkedIn/Buffers in vim.md",
+    "2 Output/Posts/LinkedIn/Install Docker engine.md",
+    "File I",
     "Gemini_Generated_Image_5ek2145ek2145ek2.png",
-    "Zettlekasten/Make posts authentic and effective.md",
-    "3 Periodic Notes/Daily/2025-09-08.md",
     "Gemini_Generated_Image_i43ylzi43ylzi43y.png",
     "Gemini_Generated_Image_we6wsqwe6wsqwe6w.png",
     "1 Input/Courses/Python",

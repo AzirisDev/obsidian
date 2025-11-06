@@ -49,7 +49,24 @@ for _ in range(args.n):
 	print("meow")
 ```
 
+#### Filter
+```
+result = filter(condition, list)
+```
 
+#### Generator 
+Instead of using return to send back a single value, generator functions use yield to produce a series of results over time.
+```
+def fun(max):
+    cnt = 1
+    while cnt <= max:
+        yield cnt
+        cnt += 1
+
+ctr = fun(5)
+for n in ctr:
+    print(n). 
+```
 Links:
 
 202511041355
