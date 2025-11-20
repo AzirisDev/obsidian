@@ -32,7 +32,7 @@
 
 Compression - zip one file
 Archive - many files in one file
-- gzip/guzip filename - zip or unzip file
+- gzip/gunzip filename - zip or unzip file
 	- bzip2, xz - other types of zippers
 - tar cf file names - creates an archive
 	- tar xf archive name - extract archive
