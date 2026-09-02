@@ -1,4 +1,4 @@
-#### Titan, Decision Maker, Problem Solver, Genius, Warrior
+#### Titan, Decision Maker, Problem Solver, Genius, Warrior, Bigger person
 
 **Character Traits**
 
@@ -19,6 +19,7 @@
 **Achievements**
 
 - Conquer all of my fears and have full unshakable control of myself at all times
+- Have our huge happy family with Azhar and my big family also happy
 - Build a huge community of smartest people
 - Reform the way how people work with technology and science
 - Reform the way how people collaborate
@@ -26,12 +27,6 @@
 - Black belt owner in Brazilian jiu-jitsu
 - Feature on the front covers of Forbes, Time, Fortune, Rolling Stone
 - Own a Gulfstream private jet
-
-**Mentors**
-
-1.  Mischa van den Burg - DevOps  
-2.  XXXX  
-3.  XXXX  
 
 **Branding:**
 

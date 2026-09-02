@@ -10,6 +10,6 @@ here is my prompt to generate images:
 `Generate me a picture of it. Image should not contain any sentences. Image should in Rick and Morty style of animation. No background, choose some one color(maybe little gradient) background, with eye catching color. Also, do not forget that this will be posted on LinkedIn. The character should not be exactly Rick or morty. It can be just a random character.`
 
 Here is a link where you can get a prompt of Mischa's post, but you should make your own
-Links: https://www.skool.com/kubecraft/classroom/ff19b221?md=2f63ebb718a341649c094e7713a87c91
+Links: https://www.skool.com/kubecraft/classroom/feb777bd?md=9c37d74e9162433ebf50e8ffbc65cb67
 
 202508142248

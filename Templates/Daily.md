@@ -3,6 +3,6 @@
 ## Daily deeds & rituals
 
 
-- [ ] learn python for 2 hours
+- [ ] 
 
 ## Log

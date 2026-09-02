@@ -8,19 +8,9 @@ He is aware. He observes his own thoughts, behaviors, and weaknesses with honest
 
 Azim’s identity expresses itself physically too. He maintains an athletic, functional body — strong, mobile, capable. His style is simple but intentional: modern haircut, clean lines, casual or sport when needed, suits when the situation demands power. A watch on his wrist — a reminder of time, discipline, and direction.
 
-At the deepest level, Azim is a builder of worlds. His future is already outlined:
-- full mastery over his fears and emotions
-- a community of the smartest people around him
-- a reformation of how technology and humans collaborate
-- leadership at a global scale
-- financial power in the top tier of the world
-- black belt in Brazilian jiu-jitsu
-- influence large enough to stand on the covers of the world’s major publications
-- freedom symbolized by a Gulfstream jet, built through work, discipline, and genius
-
 These aren’t fantasies — they are coordinates. A trajectory. A direction his identity naturally moves toward.
 
-Azim’s mentors shape his evolution: engineering mastery, DevOps excellence, strategic thinking, and the discipline of warriors and innovators. His brand is simple: extraordinary intelligence, focused leadership, and the ability to create the future before others see it.
+Azim shape his evolution: engineering mastery, DevOps excellence, strategic thinking, and the discipline of warriors and innovators. His brand is simple: extraordinary intelligence, focused leadership, and the ability to create the future before others see it.
 
 This is who Azim is — now and inevitably.
 

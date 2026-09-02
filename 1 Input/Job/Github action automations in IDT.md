@@ -44,7 +44,7 @@ If user does not receive the invitation:
 
 ##### 4. Encode the Files in Base64
 To safely store in GitHub Secrets, convert the `.p12` files into base64 strings:
-- `base64 -i Certificates.p12 | pbcopy`
+- `i`
 
 Add certificate and password to the github action secrets.
 
