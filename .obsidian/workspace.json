@@ -8,35 +8,76 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d707d13275e3d738",
+            "id": "5b027c6641defa32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Input/Courses/Containers/Dockerfile.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dockerfile"
-            }
-          },
-          {
-            "id": "f34d2e3963e7405f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 Inbox/Pushing image to Github Registry.md",
+                "file": "Zettlekasten/Pushing image to Github Registry.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Pushing image to Github Registry"
             }
+          },
+          {
+            "id": "4a4ab6d29455247a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 Inbox/Rule 4 -> Add Health Checks to the container.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rule 4 -> Add Health Checks to the container"
+            }
+          },
+          {
+            "id": "d3580d54b3cdf630",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 Inbox/Rule 3 -> Choose base images wisely; try to always use minimal versions of images.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rule 3 -> Choose base images wisely; try to always use minimal versions of images"
+            }
+          },
+          {
+            "id": "9958ac8790379c3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 Inbox/Rule 2 -> Multi-Stage builds.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rule 2 -> Multi-Stage builds"
+            }
+          },
+          {
+            "id": "4f29f5268250cd7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 Inbox/Rule 1 -> Run container as non-root.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rule 1 -> Run container as non-root"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "environment variables",
+                "query": "ghc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -210,34 +251,34 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f34d2e3963e7405f",
+  "active": "5b027c6641defa32",
   "lastOpenFiles": [
-    "0 Inbox/Pushing image to Github Registry.md",
+    "1 Input/Courses/Containers/Security & Container best practices.md",
+    "0 Inbox/Rule 4 -> Add Health Checks to the container.md",
+    "0 Inbox/Rule 3 -> Choose base images wisely; try to always use minimal versions of images.md",
+    "0 Inbox/Rule 2 -> Multi-Stage builds.md",
+    "0 Inbox/Rule 1 -> Run container as non-root.md",
+    "Zettlekasten/Pushing image to Github Registry.md",
+    "Zettlekasten/Build context of the image.md",
+    "3 Periodic Notes/Daily/2026-09-04.md",
+    "Zettlekasten/Building and Tagging images.md",
+    "Zettlekasten/WORKDIR.md",
     "1 Input/Courses/Containers/Dockerfile.md",
-    "0 Inbox/Building and Tagging images.md",
-    "0 Inbox/Build context of the image.md",
-    "0 Inbox/How layers AKA OverlayFS and caching works?.md",
-    "0 Inbox/Core Dockerfile instructions.md",
-    "0 Inbox/ENTRYPOINT.md",
-    "0 Inbox/CMD.md",
-    "0 Inbox/EXPOSE.md",
-    "0 Inbox/ENV.md",
-    "Zettlekasten/Docker environment variables.md",
-    "1 Input/Courses/Containers/Docker setup.md",
+    "Zettlekasten/Core Dockerfile instructions.md",
+    "Zettlekasten/COPY.md",
     "1 Input/Courses/Containers/Containers.md",
     "1 Input/Courses/Containers/Container's lifecycle management.md",
+    "Zettlekasten/Start, stop, restart, policies for containers.md",
+    "Zettlekasten/ENTRYPOINT.md",
+    "Zettlekasten/How layers AKA OverlayFS and caching works?.md",
+    "Zettlekasten/CMD.md",
+    "Zettlekasten/EXPOSE.md",
+    "Zettlekasten/ENV.md",
+    "Zettlekasten/Docker environment variables.md",
+    "1 Input/Courses/Containers/Docker setup.md",
     "Zettlekasten/Exec command variations.md",
-    "0 Inbox/FROM.md",
-    "0 Inbox/WORKDIR.md",
-    "0 Inbox/COPY.md",
-    "0 Inbox/RUN.md",
-    "0 Inbox/What is Dockerfile?.md",
-    "3 Periodic Notes/Daily/2026-09-02.md",
-    "Zettlekasten/Volumes OR how do you preserve information when container dies.md",
-    "Zettlekasten/Container launch -> run vs exec vs attach.md",
-    "3 Periodic Notes/Daily/2026-09-01.md",
-    "Zettlekasten/Docker clean-up.md",
-    "Zettlekasten/Inspecting containers.md",
+    "Zettlekasten/FROM.md",
+    "Zettlekasten/RUN.md",
     "0 Inbox/Untitled.base",
     "1 Input/Courses/Containers",
     "ChatGPT Image Aug 23, 2025 at 06_40_48 PM.png",
