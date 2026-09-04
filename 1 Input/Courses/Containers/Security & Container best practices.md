@@ -5,6 +5,8 @@ Containers are isolated but they all share host kernel. So vulnerable container 
 [[Rule 3 -> Choose base images wisely; try to always use minimal versions of images]]
 [[Rule 4 -> Add Health Checks to the container]]
 
+
+I faced some interesting thing called [[local SSH port forwarding tunnel]].
 Links:
 
 202609041505
