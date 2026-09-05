@@ -11,10 +11,14 @@
             "id": "c8aff9ee1333b7a8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3 Periodic Notes/Daily/2026-09-05.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-09-05"
             }
           }
         ]
@@ -190,11 +194,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e0f82aced9f57bec",
+  "active": "c8aff9ee1333b7a8",
   "lastOpenFiles": [
+    "3 Periodic Notes/Daily/2026-09-05.md",
+    "Zettlekasten/local SSH port forwarding tunnel.md",
     "1 Input/Courses/Containers/Security & Container best practices.md",
     "0 Inbox/Untitled.base",
-    "Zettlekasten/local SSH port forwarding tunnel.md",
     "1 Input/Courses/Linux/SSH in Linux.md",
     "Zettlekasten/Pushing image to Github Registry.md",
     "Zettlekasten/Rule 4 -> Add Health Checks to the container.md",
