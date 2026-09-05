@@ -20,8 +20,51 @@
               "icon": "lucide-file",
               "title": "2026-09-05"
             }
+          },
+          {
+            "id": "482612da50228d16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Input/Courses/Containers/Docker compose - hello world project.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Docker compose - hello world project"
+            }
+          },
+          {
+            "id": "14bb12e93b4dc901",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlekasten/Docker compose vs Kubernetes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Docker compose vs Kubernetes"
+            }
+          },
+          {
+            "id": "c711902aebf0966b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlekasten/Dad's joke project.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dad's joke project"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,8 +237,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c8aff9ee1333b7a8",
+  "active": "e0f82aced9f57bec",
   "lastOpenFiles": [
+    "Zettlekasten/Dad's joke project.md",
+    "Zettlekasten/Docker compose vs Kubernetes.md",
+    "1 Input/Courses/Containers/Docker compose - hello world project.md",
     "3 Periodic Notes/Daily/2026-09-05.md",
     "Zettlekasten/local SSH port forwarding tunnel.md",
     "1 Input/Courses/Containers/Security & Container best practices.md",
@@ -220,9 +266,6 @@
     "Zettlekasten/How layers AKA OverlayFS and caching works?.md",
     "Zettlekasten/CMD.md",
     "Zettlekasten/EXPOSE.md",
-    "Zettlekasten/ENV.md",
-    "Zettlekasten/Docker environment variables.md",
-    "1 Input/Courses/Containers/Docker setup.md",
     "1 Input/Courses/Containers",
     "ChatGPT Image Aug 23, 2025 at 06_40_48 PM.png",
     "0 Inbox/Untitled 4.base",
