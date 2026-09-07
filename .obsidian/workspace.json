@@ -41,12 +41,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlekasten/Docker compose vs Kubernetes.md",
+                "file": "3 Periodic Notes/Daily/2026-09-05.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker compose vs Kubernetes"
+              "title": "2026-09-05"
+            }
+          },
+          {
+            "id": "95075191ba1048dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Input/Courses/Kubernetes/Rancher Desktop Setup.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rancher Desktop Setup"
             }
           },
           {
@@ -64,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "copy file",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -239,14 +253,20 @@
   },
   "active": "e0f82aced9f57bec",
   "lastOpenFiles": [
-    "Zettlekasten/Dad's joke project.md",
-    "Zettlekasten/Docker compose vs Kubernetes.md",
-    "1 Input/Courses/Containers/Docker compose - hello world project.md",
+    "1 Input/Courses/Kubernetes/Rancher Desktop Setup.md",
     "3 Periodic Notes/Daily/2026-09-05.md",
+    "1 Input/Courses/Kubernetes",
+    "Zettlekasten/Bash custom filters.md",
+    "1 Input/Courses/Linux/SSH in Linux.md",
+    "1 Input/Courses/Arch Linux/Arch Linux Start.md",
+    "1 Input/Courses/Arch Linux/Backing up with Restic.md",
+    "1 Input/Courses/Arch Linux/AUR.md",
+    "Zettlekasten/Docker compose vs Kubernetes.md",
+    "Zettlekasten/Dad's joke project.md",
+    "1 Input/Courses/Containers/Docker compose - hello world project.md",
     "Zettlekasten/local SSH port forwarding tunnel.md",
     "1 Input/Courses/Containers/Security & Container best practices.md",
     "0 Inbox/Untitled.base",
-    "1 Input/Courses/Linux/SSH in Linux.md",
     "Zettlekasten/Pushing image to Github Registry.md",
     "Zettlekasten/Rule 4 -> Add Health Checks to the container.md",
     "Zettlekasten/Rule 3 -> Choose base images wisely; try to always use minimal versions of images.md",
@@ -261,11 +281,6 @@
     "Zettlekasten/COPY.md",
     "1 Input/Courses/Containers/Containers.md",
     "1 Input/Courses/Containers/Container's lifecycle management.md",
-    "Zettlekasten/Start, stop, restart, policies for containers.md",
-    "Zettlekasten/ENTRYPOINT.md",
-    "Zettlekasten/How layers AKA OverlayFS and caching works?.md",
-    "Zettlekasten/CMD.md",
-    "Zettlekasten/EXPOSE.md",
     "1 Input/Courses/Containers",
     "ChatGPT Image Aug 23, 2025 at 06_40_48 PM.png",
     "0 Inbox/Untitled 4.base",
@@ -284,7 +299,6 @@
     "Journeys",
     "File I",
     "1 Input/Courses/Python",
-    "system_backup_service.txt",
     "1 Projects/Untitled.canvas",
     "Untitled.canvas"
   ]
