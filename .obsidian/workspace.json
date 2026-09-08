@@ -8,77 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c8aff9ee1333b7a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 Periodic Notes/Daily/2026-09-05.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-09-05"
-            }
-          },
-          {
-            "id": "482612da50228d16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Input/Courses/Containers/Docker compose - hello world project.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Docker compose - hello world project"
-            }
-          },
-          {
-            "id": "14bb12e93b4dc901",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 Periodic Notes/Daily/2026-09-05.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-09-05"
-            }
-          },
-          {
             "id": "95075191ba1048dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Input/Courses/Kubernetes/Rancher Desktop Setup.md",
+                "file": "3 Periodic Notes/Daily/2026-09-08.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rancher Desktop Setup"
+              "title": "2026-09-08"
             }
           },
           {
-            "id": "c711902aebf0966b",
+            "id": "d799bd9ae24fc67b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlekasten/Dad's joke project.md",
+                "file": "1 Input/Courses/Kubernetes/What is Kubernetes? Why do we need it?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dad's joke project"
+              "title": "What is Kubernetes? Why do we need it?"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -251,10 +209,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e0f82aced9f57bec",
+  "active": "d799bd9ae24fc67b",
   "lastOpenFiles": [
-    "1 Input/Courses/Kubernetes/Rancher Desktop Setup.md",
+    "3 Periodic Notes/Daily/2026-09-08.md",
+    "1 Input/Courses/Kubernetes/What is Kubernetes? Why do we need it?.md",
     "3 Periodic Notes/Daily/2026-09-05.md",
+    "1 Input/Courses/Containers/Docker compose - hello world project.md",
+    "1 Input/Courses/Kubernetes/Rancher Desktop Setup.md",
     "1 Input/Courses/Kubernetes",
     "Zettlekasten/Bash custom filters.md",
     "1 Input/Courses/Linux/SSH in Linux.md",
@@ -263,7 +224,6 @@
     "1 Input/Courses/Arch Linux/AUR.md",
     "Zettlekasten/Docker compose vs Kubernetes.md",
     "Zettlekasten/Dad's joke project.md",
-    "1 Input/Courses/Containers/Docker compose - hello world project.md",
     "Zettlekasten/local SSH port forwarding tunnel.md",
     "1 Input/Courses/Containers/Security & Container best practices.md",
     "0 Inbox/Untitled.base",
@@ -279,8 +239,6 @@
     "1 Input/Courses/Containers/Dockerfile.md",
     "Zettlekasten/Core Dockerfile instructions.md",
     "Zettlekasten/COPY.md",
-    "1 Input/Courses/Containers/Containers.md",
-    "1 Input/Courses/Containers/Container's lifecycle management.md",
     "1 Input/Courses/Containers",
     "ChatGPT Image Aug 23, 2025 at 06_40_48 PM.png",
     "0 Inbox/Untitled 4.base",
