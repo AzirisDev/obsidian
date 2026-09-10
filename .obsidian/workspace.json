@@ -48,9 +48,37 @@
               "icon": "lucide-file",
               "title": "Deployments"
             }
+          },
+          {
+            "id": "f1f1b231ad0cbb99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlekasten/Pet-project -> Mealie.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pet-project -> Mealie"
+            }
+          },
+          {
+            "id": "449fea79cde6f158",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Input/Videos/LPIC-1/Basic network troubleshooting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Basic network troubleshooting"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -84,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tmux",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -223,8 +251,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "56aba8bb5759a1a7",
+  "active": "f1f1b231ad0cbb99",
   "lastOpenFiles": [
+    "Zettlekasten/Namespaces.md",
+    "Zettlekasten/Pet-project -> Mealie.md",
+    "1 Input/Courses/Kubernetes/Deployments.md",
+    "1 Input/Videos/LPIC-1/Basic network troubleshooting.md",
+    "Zettlekasten/local SSH port forwarding tunnel.md",
     "1 Input/Courses/Containers/Security & Container best practices.md",
     "1 Input/Courses/Containers/Dockerfile.md",
     "1 Input/Courses/Containers/Docker setup.md",
@@ -232,8 +265,6 @@
     "1 Input/Courses/Containers/Containers.md",
     "1 Input/Courses/Containers/Container's lifecycle management.md",
     "1 Input/Courses/Kubernetes/What is Kubernetes? Why do we need it?.md",
-    "0 Inbox/Namespaces.md",
-    "1 Input/Courses/Kubernetes/Deployments.md",
     "3 Periodic Notes/Daily/2026-09-10.md",
     "1 Input/Courses/Linux/Tmux.md",
     "1 Input/Courses/Kubernetes/Rancher Desktop Setup.md",
@@ -249,9 +280,6 @@
     "3 Periodic Notes/Daily/2026-09-05.md",
     "1 Input/Courses/Kubernetes",
     "Zettlekasten/Bash custom filters.md",
-    "1 Input/Courses/Linux/SSH in Linux.md",
-    "1 Input/Courses/Arch Linux/Arch Linux Start.md",
-    "1 Input/Courses/Arch Linux/Backing up with Restic.md",
     "0 Inbox/Untitled.base",
     "1 Input/Courses/Containers",
     "ChatGPT Image Aug 23, 2025 at 06_40_48 PM.png",

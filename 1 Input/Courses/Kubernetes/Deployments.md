@@ -11,6 +11,7 @@ It manages set of identical Pods, matching the desired state to real one. Hierar
 [[How Deployments handle failing update of new pods?]]
 [[Namespaces]]
 
+[[Pet-project -> Mealie]]
  
 
 Links:
