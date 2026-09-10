@@ -22,91 +22,21 @@
             }
           },
           {
-            "id": "f4b702c5a4850834",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Input/Courses/Kubernetes/Pods.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pods"
-            }
-          },
-          {
             "id": "09e6a7f86cfba7d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 Inbox/Interacting with pods.md",
+                "file": "3 Periodic Notes/Daily/2026-09-09.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Interacting with pods"
-            }
-          },
-          {
-            "id": "5b38335760820d09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 Inbox/Declarative method to run pod -> yaml files.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Declarative method to run pod -> yaml files"
-            }
-          },
-          {
-            "id": "dd800c9a23028cb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 Inbox/Imperative method to run pod.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Imperative method to run pod"
-            }
-          },
-          {
-            "id": "d9760df757414bba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 Inbox/Imperative method to run pod.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Imperative method to run pod"
-            }
-          },
-          {
-            "id": "d799bd9ae24fc67b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Input/Courses/Kubernetes/What is Kubernetes? Why do we need it?.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "What is Kubernetes? Why do we need it?"
+              "title": "2026-09-09"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -281,10 +211,15 @@
   },
   "active": "09e6a7f86cfba7d2",
   "lastOpenFiles": [
-    "0 Inbox/Imperative method to run pod.md",
-    "0 Inbox/Declarative method to run pod -> yaml files.md",
-    "0 Inbox/Interacting with pods.md",
+    "Zettlekasten/How Deployments handle failing update of new pods?.md",
+    "1 Input/Courses/Kubernetes/Deployments.md",
+    "Zettlekasten/YAML file for deployment.md",
+    "3 Periodic Notes/Daily/2026-09-09.md",
+    "Zettlekasten/Rolling Update strategy for Deployments.md",
+    "Zettlekasten/Declarative method to run pod -> yaml files.md",
     "1 Input/Courses/Kubernetes/Pods.md",
+    "Zettlekasten/Interacting with pods.md",
+    "Zettlekasten/Imperative method to run pod.md",
     "1 Input/Courses/Kubernetes/What is Kubernetes? Why do we need it?.md",
     "3 Periodic Notes/Daily/2026-09-08.md",
     "3 Periodic Notes/Daily/2026-09-05.md",
@@ -304,11 +239,6 @@
     "Zettlekasten/Pushing image to Github Registry.md",
     "Zettlekasten/Rule 4 -> Add Health Checks to the container.md",
     "Zettlekasten/Rule 3 -> Choose base images wisely; try to always use minimal versions of images.md",
-    "Zettlekasten/Rule 2 -> Multi-Stage builds.md",
-    "Zettlekasten/Rule 1 -> Run container as non-root.md",
-    "Zettlekasten/Build context of the image.md",
-    "3 Periodic Notes/Daily/2026-09-04.md",
-    "Zettlekasten/Building and Tagging images.md",
     "1 Input/Courses/Containers",
     "ChatGPT Image Aug 23, 2025 at 06_40_48 PM.png",
     "0 Inbox/Untitled 4.base",
