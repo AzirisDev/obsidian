@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Periodic Notes/Daily/2026-09-09.md",
+                "file": "1 Input/Courses/Kubernetes/Deployments.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-09"
+              "title": "Deployments"
+            }
+          },
+          {
+            "id": "56aba8bb5759a1a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Input/Courses/Kubernetes/Deployments.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Deployments"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -70,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tmux",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -209,36 +223,36 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "09e6a7f86cfba7d2",
+  "active": "56aba8bb5759a1a7",
   "lastOpenFiles": [
-    "Zettlekasten/How Deployments handle failing update of new pods?.md",
+    "1 Input/Courses/Containers/Security & Container best practices.md",
+    "1 Input/Courses/Containers/Dockerfile.md",
+    "1 Input/Courses/Containers/Docker setup.md",
+    "1 Input/Courses/Containers/Docker compose - hello world project.md",
+    "1 Input/Courses/Containers/Containers.md",
+    "1 Input/Courses/Containers/Container's lifecycle management.md",
+    "1 Input/Courses/Kubernetes/What is Kubernetes? Why do we need it?.md",
+    "0 Inbox/Namespaces.md",
     "1 Input/Courses/Kubernetes/Deployments.md",
-    "Zettlekasten/YAML file for deployment.md",
+    "3 Periodic Notes/Daily/2026-09-10.md",
+    "1 Input/Courses/Linux/Tmux.md",
+    "1 Input/Courses/Kubernetes/Rancher Desktop Setup.md",
     "3 Periodic Notes/Daily/2026-09-09.md",
+    "Zettlekasten/How Deployments handle failing update of new pods?.md",
+    "Zettlekasten/YAML file for deployment.md",
     "Zettlekasten/Rolling Update strategy for Deployments.md",
     "Zettlekasten/Declarative method to run pod -> yaml files.md",
     "1 Input/Courses/Kubernetes/Pods.md",
     "Zettlekasten/Interacting with pods.md",
     "Zettlekasten/Imperative method to run pod.md",
-    "1 Input/Courses/Kubernetes/What is Kubernetes? Why do we need it?.md",
     "3 Periodic Notes/Daily/2026-09-08.md",
     "3 Periodic Notes/Daily/2026-09-05.md",
-    "1 Input/Courses/Containers/Docker compose - hello world project.md",
-    "1 Input/Courses/Kubernetes/Rancher Desktop Setup.md",
     "1 Input/Courses/Kubernetes",
     "Zettlekasten/Bash custom filters.md",
     "1 Input/Courses/Linux/SSH in Linux.md",
     "1 Input/Courses/Arch Linux/Arch Linux Start.md",
     "1 Input/Courses/Arch Linux/Backing up with Restic.md",
-    "1 Input/Courses/Arch Linux/AUR.md",
-    "Zettlekasten/Docker compose vs Kubernetes.md",
-    "Zettlekasten/Dad's joke project.md",
-    "Zettlekasten/local SSH port forwarding tunnel.md",
-    "1 Input/Courses/Containers/Security & Container best practices.md",
     "0 Inbox/Untitled.base",
-    "Zettlekasten/Pushing image to Github Registry.md",
-    "Zettlekasten/Rule 4 -> Add Health Checks to the container.md",
-    "Zettlekasten/Rule 3 -> Choose base images wisely; try to always use minimal versions of images.md",
     "1 Input/Courses/Containers",
     "ChatGPT Image Aug 23, 2025 at 06_40_48 PM.png",
     "0 Inbox/Untitled 4.base",

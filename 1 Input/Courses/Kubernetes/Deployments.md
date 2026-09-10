@@ -9,6 +9,7 @@ It manages set of identical Pods, matching the desired state to real one. Hierar
 
 [[YAML file for deployment]]
 [[How Deployments handle failing update of new pods?]]
+[[Namespaces]]
 
  
 
