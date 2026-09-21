@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlekasten/Secret file and usage.md",
+                "file": "3 Periodic Notes/Daily/2026-09-21.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Secret file and usage"
+              "title": "2026-09-21"
             }
           },
           {
@@ -251,10 +251,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e0f82aced9f57bec",
+  "active": "036ac2c6d2fc515b",
   "lastOpenFiles": [
-    "Zettlekasten/Postgres - StatefulSet + Headless Service.md",
+    "3 Periodic Notes/Daily/2026-09-19.md",
+    "3 Periodic Notes/Daily/2026-09-21.md",
+    "3 Periodic Notes/Daily/2026-09-22.md",
     "Zettlekasten/Secret file and usage.md",
+    "Zettlekasten/Postgres - StatefulSet + Headless Service.md",
     "Zettlekasten/Linkding - Deployment + init container.md",
     "1 Input/Courses/Kubernetes/Self-hosted apps/Linkding Phase 2.md",
     "Zettlekasten/Persistent storage.md",
@@ -277,9 +280,6 @@
     "1 Input/Courses/Linux/The Path of a Packet Through the Linux Kernel.md",
     "1 Input/Courses/Python/REST API Python server.md",
     "Zettlekasten/Docker installation.md",
-    "Zettlekasten/Core Dockerfile instructions.md",
-    "Zettlekasten/RUN.md",
-    "2 Output/Posts/LinkedIn/Hands-on networking.md",
     "0 Inbox/Untitled.base",
     "Screenshot 2026-09-18 at 12.16.38.png",
     "1 Input/Courses/Kubernetes",
