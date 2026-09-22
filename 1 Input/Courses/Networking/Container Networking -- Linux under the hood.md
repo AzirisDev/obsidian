@@ -6,6 +6,7 @@ Docker handles the networking when we do `docker run` and sets up all necessary 
 #### [[Networking lab00 - build container network from scratch]]
 #### [[Networking lab00 - enable internet access]]
 
+#### [[Networking lab00 - docker compose demo]]
 
 
 
