@@ -8,77 +8,76 @@
         "type": "tabs",
         "children": [
           {
-            "id": "355dec46c57b12b1",
+            "id": "434eed486fb45399",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Input/Courses/Kubernetes/Self-hosted apps/Linkding setup.md",
+                "file": "Zettlekasten/Networking lab00 - docker demo code & architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linkding setup"
+              "title": "Networking lab00 - docker demo code & architecture"
             }
           },
           {
-            "id": "5141ba65a4ae20b8",
+            "id": "8542e7db915787e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Input/Courses/Kubernetes/Self-hosted apps/Linkding Phase 2.md",
+                "file": "Zettlekasten/What is networking on containers level?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linkding Phase 2"
+              "title": "What is networking on containers level?"
             }
           },
           {
-            "id": "036ac2c6d2fc515b",
+            "id": "f80b798dde66c9af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Periodic Notes/Daily/2026-09-21.md",
+                "file": "Zettlekasten/Networking lab00 - enable internet access.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-21"
+              "title": "Networking lab00 - enable internet access"
             }
           },
           {
-            "id": "1b179bd430155dc0",
+            "id": "3d36fb84c221cac1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlekasten/Postgres - StatefulSet + Headless Service.md",
+                "file": "Zettlekasten/Networking lab00 - build container network from scratch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Postgres - StatefulSet + Headless Service"
+              "title": "Networking lab00 - build container network from scratch"
             }
           },
           {
-            "id": "4498f0ba08b81b1f",
+            "id": "f96cedc6f870a0df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlekasten/Secret file and usage.md",
+                "file": "Zettlekasten/Networking lab00 - docker demo code & architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Secret file and usage"
+              "title": "Networking lab00 - docker demo code & architecture"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,8 +111,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "LoadBa",
-                "matchingCase": false,
+                "query": "NAT",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -251,13 +250,27 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "036ac2c6d2fc515b",
+  "active": "434eed486fb45399",
   "lastOpenFiles": [
-    "3 Periodic Notes/Daily/2026-09-19.md",
-    "3 Periodic Notes/Daily/2026-09-21.md",
+    "1 Input/Courses/Networking/Container Networking -- Linux under the hood.md",
+    "Zettlekasten/Networking lab00 - enable internet access.md",
+    "Zettlekasten/What is networking on containers level?.md",
+    "Zettlekasten/Networking lab00 - build container network from scratch.md",
+    "Zettlekasten/Networking lab00 - docker demo code & architecture.md",
+    "Screenshot 2026-09-22 at 15.49.19.png",
+    "Screenshot 2026-09-22 at 13.33.02.png",
+    "Zettlekasten/Every device in network needs IP address.md",
     "3 Periodic Notes/Daily/2026-09-22.md",
     "Zettlekasten/Secret file and usage.md",
     "Zettlekasten/Postgres - StatefulSet + Headless Service.md",
+    "Zettlekasten/Container Networking Interface Plugin.md",
+    "1 Input/Courses/Networking",
+    "Journeys/Land my first position as a DevOps Engineer.md",
+    "Zettlekasten/Containers - Adventure.md",
+    "Zettlekasten/Programming language - Adventure.md",
+    "Zettlekasten/Linux - Adventure.md",
+    "3 Periodic Notes/Daily/2026-09-19.md",
+    "3 Periodic Notes/Daily/2026-09-21.md",
     "Zettlekasten/Linkding - Deployment + init container.md",
     "1 Input/Courses/Kubernetes/Self-hosted apps/Linkding Phase 2.md",
     "Zettlekasten/Persistent storage.md",
@@ -268,18 +281,6 @@
     "1 Input/Courses/Kubernetes/Kube prometheus stack.md",
     "1 Input/Courses/Containers/Security & Container best practices.md",
     "Zettlekasten/local SSH port forwarding tunnel.md",
-    "Zettlekasten/Rule 4 -> Add Health Checks to the container.md",
-    "1 Input/Courses/Python/Running AI with Python and Docker.md",
-    "Zettlekasten/Namespaces.md",
-    "1 Input/Courses/Kubernetes/k9s.md",
-    "Zettlekasten/Dad's joke project.md",
-    "1 Input/Courses/Containers/Docker compose - hello world project.md",
-    "Zettlekasten/Pet-project -> Mealie.md",
-    "Zettlekasten/Domain name server.md",
-    "2 Output/Posts/LinkedIn/Install Docker engine.md",
-    "1 Input/Courses/Linux/The Path of a Packet Through the Linux Kernel.md",
-    "1 Input/Courses/Python/REST API Python server.md",
-    "Zettlekasten/Docker installation.md",
     "0 Inbox/Untitled.base",
     "Screenshot 2026-09-18 at 12.16.38.png",
     "1 Input/Courses/Kubernetes",
@@ -295,10 +296,7 @@
     "Gemini_Generated_Image_wx4lh6wx4lh6wx4l.png",
     "Gemini_Generated_Image_i6832ui6832ui683.png",
     "Gemini_Generated_Image_ild5d4ild5d4ild5.png",
-    "Gemini_Generated_Image_ia86z0ia86z0ia86.png",
-    "Gemini_Generated_Image_g2r0m7g2r0m7g2r0.png",
     "Journeys",
-    "File I",
     "1 Projects/Untitled.canvas",
     "Untitled.canvas"
   ]
