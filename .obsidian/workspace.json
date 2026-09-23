@@ -13,21 +13,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Input/Courses/Networking/Container Networking -- Linux under the hood.md",
+                "file": "3 Periodic Notes/Daily/2026-09-23.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Container Networking -- Linux under the hood"
+              "title": "2026-09-23"
             }
           },
           {
-            "id": "864eada9ef99551f",
+            "id": "7b137360c64b5acc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 Inbox/Networking lab00 - docker compose demo.md",
+                "file": "Zettlekasten/Networking lab00 - docker compose demo.md",
                 "mode": "source",
                 "source": false
               },
@@ -36,62 +36,35 @@
             }
           },
           {
-            "id": "8542e7db915787e3",
+            "id": "a396298651e260bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlekasten/What is networking on containers level?.md",
+                "file": "Zettlekasten/How to create three node topology?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What is networking on containers level?"
+              "title": "How to create three node topology?"
             }
           },
           {
-            "id": "f80b798dde66c9af",
+            "id": "bc980096436b8556",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlekasten/Networking lab00 - enable internet access.md",
+                "file": "Zettlekasten/How to work with containerlab?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Networking lab00 - enable internet access"
-            }
-          },
-          {
-            "id": "3d36fb84c221cac1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlekasten/Networking lab00 - build container network from scratch.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Networking lab00 - build container network from scratch"
-            }
-          },
-          {
-            "id": "f96cedc6f870a0df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlekasten/Networking lab00 - docker demo code & architecture.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Networking lab00 - docker demo code & architecture"
+              "title": "How to work with containerlab?"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -264,10 +237,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "434eed486fb45399",
+  "active": "e0f82aced9f57bec",
   "lastOpenFiles": [
-    "0 Inbox/Networking lab00 - docker compose demo.md",
+    "Zettlekasten/How to work with containerlab?.md",
+    "Zettlekasten/Networking lab00 - docker compose demo.md",
+    "Zettlekasten/How to create three node topology?.md",
+    "1 Input/Courses/Networking/Container Lab Primer.md",
     "1 Input/Courses/Networking/Container Networking -- Linux under the hood.md",
+    "3 Periodic Notes/Daily/2026-09-23.md",
+    "3 Periodic Notes/Daily/2026-09-22.md",
     "Zettlekasten/Networking lab00 - docker demo code & architecture.md",
     "Zettlekasten/Networking lab00 - enable internet access.md",
     "Zettlekasten/What is networking on containers level?.md",
@@ -275,7 +253,6 @@
     "Screenshot 2026-09-22 at 15.49.19.png",
     "Screenshot 2026-09-22 at 13.33.02.png",
     "Zettlekasten/Every device in network needs IP address.md",
-    "3 Periodic Notes/Daily/2026-09-22.md",
     "Zettlekasten/Secret file and usage.md",
     "Zettlekasten/Postgres - StatefulSet + Headless Service.md",
     "Zettlekasten/Container Networking Interface Plugin.md",
@@ -292,10 +269,6 @@
     "1 Input/Courses/Kubernetes/Self-hosted apps/Linkding setup.md",
     "1 Input/Courses/Kubernetes/Self-hosted apps",
     "Zettlekasten/Services.md",
-    "1 Input/Courses/Kubernetes/Networking in k8s.md",
-    "1 Input/Courses/Kubernetes/Kube prometheus stack.md",
-    "1 Input/Courses/Containers/Security & Container best practices.md",
-    "Zettlekasten/local SSH port forwarding tunnel.md",
     "0 Inbox/Untitled.base",
     "Screenshot 2026-09-18 at 12.16.38.png",
     "1 Input/Courses/Kubernetes",
