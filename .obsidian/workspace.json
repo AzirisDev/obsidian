@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "2d71bb876cbec01d",
+        "id": "3a9daae6ba2a7a08",
         "type": "tabs",
         "children": [
           {
-            "id": "7d19e8a0ef2fedf9",
+            "id": "1f58aa273503b55e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Input/Courses/Networking/IP fundamentals.md",
+                "file": "Zettlekasten/What was built in scope of routing basics?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IP fundamentals"
-            }
-          },
-          {
-            "id": "af3799d0227e5a1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Input/Courses/Networking/Routing Basics.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Routing Basics"
+              "title": "What was built in scope of routing basics?"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,12 +194,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "af3799d0227e5a1d",
+  "active": "1f58aa273503b55e",
   "lastOpenFiles": [
+    "Screenshot 2026-09-29 at 16.39.51.png",
+    "1 Input/Courses/Networking/Routing Basics.md",
+    "3 Periodic Notes/Daily/2026-09-29.md",
     "Zettlekasten/What was built in scope of routing basics?.md",
     "Zettlekasten/Main concepts in routing basics.md",
     "Zettlekasten/Break & fix in routing basics.md",
-    "1 Input/Courses/Networking/Routing Basics.md",
     "1 Input/Courses/Networking/IP fundamentals.md",
     "1 Input/Courses/Networking/Container Lab Primer.md",
     "1 Input/Courses/Networking/Container Networking -- Linux under the hood.md",
@@ -223,7 +210,6 @@
     "2 Output/Posts/X/vimtutor.md",
     "Screenshot 2026-09-29 at 13.28.07.png",
     "Screenshot 2026-09-29 at 09.14.08.png",
-    "3 Periodic Notes/Daily/2026-09-29.md",
     "Zettlekasten/IP addressing and subnets.md",
     "Zettlekasten/OSI Layers.md",
     "Zettlekasten/What is Ansible?.md",
@@ -241,7 +227,6 @@
     "Zettlekasten/What is networking on containers level?.md",
     "Screenshot 2026-09-22 at 15.49.19.png",
     "Screenshot 2026-09-22 at 13.33.02.png",
-    "Zettlekasten/Every device in network needs IP address.md",
     "1 Input/Courses/Networking",
     "1 Input/Courses/Kubernetes/Self-hosted apps",
     "0 Inbox/Untitled.base",
