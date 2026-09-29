@@ -9,7 +9,7 @@ Container Lab: https://containerlab.dev
 [[How to create three node topology?]]
 
 
-Links:
+Links: https://github.com/drewelliott/kubecraft/tree/main/lessons/clab/01-containerlab-primer
 
 202609230934
 

@@ -3,8 +3,11 @@ We should also understand [[IP addressing and subnets]]. How we should check whe
 
 It is alright to setup network manually when you talk about two or three devices/apps. But usually it is hundreds and thousands of them. And here we have to ask for Ansible's help. But [[What is Ansible?]]
 
+What was build:
+![[Screenshot 2026-09-29 at 09.14.08.png]] 
+
  
-Links:
+Links: https://github.com/drewelliott/kubecraft/tree/main/lessons/clab/02-ip-fundamentals
 
 202609231612
 
