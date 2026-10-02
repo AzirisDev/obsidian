@@ -1,4 +1,4 @@
-What is going to be build:
+What is going to be build: 
 ![[Screenshot 2026-09-29 at 16.39.51.png]]
 
  - `IP label convention` - Routers get `.1` on host LANs and hosts get `.2`. On router-to-router links, the hub is `.1` and the spoke is `.2`.

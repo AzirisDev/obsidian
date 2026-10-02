@@ -8,20 +8,105 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1f58aa273503b55e",
+            "id": "b8e25fa7a7fd89e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlekasten/What was built in scope of routing basics?.md",
+                "file": "3 Periodic Notes/Daily/2026-10-01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What was built in scope of routing basics?"
+              "title": "2026-10-01"
+            }
+          },
+          {
+            "id": "0e8b093fc7185e70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Input/Courses/Networking/Spine-Leaf Networking with BGP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spine-Leaf Networking with BGP"
+            }
+          },
+          {
+            "id": "fe340fd571d58140",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlekasten/Why Spine-leaf?.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Why Spine-leaf?"
+            }
+          },
+          {
+            "id": "8860fe4b946223d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlekasten/Keys principles of Clos Spine-Leaf Networking.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Keys principles of Clos Spine-Leaf Networking"
+            }
+          },
+          {
+            "id": "b9941dc83943bda6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlekasten/iBGP vs eBGP in Spine-Leaf Networking.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "iBGP vs eBGP in Spine-Leaf Networking"
+            }
+          },
+          {
+            "id": "f6d390b14a2dd7e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlekasten/Why Spine-leaf?.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Why Spine-leaf?"
+            }
+          },
+          {
+            "id": "ece49f558c0e4375",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlekasten/ECMP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ECMP"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -55,7 +140,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "replace",
+                "query": "Autonomous",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -194,12 +279,28 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1f58aa273503b55e",
+  "active": "e0f82aced9f57bec",
   "lastOpenFiles": [
-    "Screenshot 2026-09-29 at 16.39.51.png",
+    "1 Input/Courses/Networking/Spine-Leaf Networking with BGP.md",
+    "Zettlekasten/What was built with spine-leaf networking?.md",
+    "Screenshot 2026-10-01 at 16.48.03.png",
+    "Zettlekasten/BGP - Border Gateway Protocol - fundamentals.md",
+    "Zettlekasten/Keys principles of Clos Spine-Leaf Networking.md",
+    "Zettlekasten/iBGP vs eBGP in Spine-Leaf Networking.md",
+    "Zettlekasten/Why Spine-leaf?.md",
+    "Zettlekasten/ECMP.md",
+    "3 Periodic Notes/Daily/2026-10-01.md",
     "1 Input/Courses/Networking/Routing Basics.md",
-    "3 Periodic Notes/Daily/2026-09-29.md",
+    "Zettlekasten/gNMIc.md",
+    "0 Inbox/BGP -.md",
+    "Zettlekasten/Why do we need dynamic routing?.md",
+    "Zettlekasten/What was build during dynamic routing & BGP?.md",
+    "1 Input/Courses/Networking/Dynamic Routing & BGP.md",
+    "Screenshot 2026-09-29 at 23.48.39.png",
     "Zettlekasten/What was built in scope of routing basics?.md",
+    "0 Inbox/`gNMIc`.md",
+    "3 Periodic Notes/Daily/2026-09-29.md",
+    "Screenshot 2026-09-29 at 16.39.51.png",
     "Zettlekasten/Main concepts in routing basics.md",
     "Zettlekasten/Break & fix in routing basics.md",
     "1 Input/Courses/Networking/IP fundamentals.md",
@@ -210,21 +311,7 @@
     "2 Output/Posts/X/vimtutor.md",
     "Screenshot 2026-09-29 at 13.28.07.png",
     "Screenshot 2026-09-29 at 09.14.08.png",
-    "Zettlekasten/IP addressing and subnets.md",
-    "Zettlekasten/OSI Layers.md",
-    "Zettlekasten/What is Ansible?.md",
-    "Zettlekasten/How to work with containerlab?.md",
-    "Zettlekasten/How to create three node topology?.md",
-    "3 Periodic Notes/Daily/2026-09-23.md",
-    "3 Periodic Notes/Daily/2026-09-24.md",
     "Screenshot 2026-09-23 at 16.43.47.png",
-    "1 Input/Courses/Linux/The Path of a Packet Through the Linux Kernel.md",
-    "3 Periodic Notes/Daily/2025-10-03.md",
-    "1 Input/Videos/LPIC-1/Network fundamentals.md",
-    "Zettlekasten/Networking lab00 - docker compose demo.md",
-    "3 Periodic Notes/Daily/2026-09-22.md",
-    "Zettlekasten/Networking lab00 - enable internet access.md",
-    "Zettlekasten/What is networking on containers level?.md",
     "Screenshot 2026-09-22 at 15.49.19.png",
     "Screenshot 2026-09-22 at 13.33.02.png",
     "1 Input/Courses/Networking",
@@ -238,9 +325,6 @@
     "0 Inbox/Untitled 3.base",
     "0 Inbox/Untitled 2.base",
     "0 Inbox/Untitled 1.base",
-    "Gemini_Generated_Image_vyc5w0vyc5w0vyc5.png",
-    "Gemini_Generated_Image_5j5bt85j5bt85j5b.png",
-    "Gemini_Generated_Image_7ktmxg7ktmxg7ktm.png",
     "Journeys",
     "1 Projects/Untitled.canvas",
     "Untitled.canvas"
