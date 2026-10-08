@@ -8,7 +8,8 @@ String manipulation:
   name = name.title() // capitalize each letter
   first, second = name.split(' ')
   print(f'Hello, {name}')
-  ```
+```
+
 
 Integer manipulation - whole numbers
 ```
