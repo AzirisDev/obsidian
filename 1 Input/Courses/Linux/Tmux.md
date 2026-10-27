@@ -10,7 +10,7 @@ It gives following opportunities:
 
 Main key binding: `Ctrl + b`
 
-- `Ctrl + b + d` - detach; exit tmux, but tmux is still running
+- `Ctrl + b + d` - detach; exit  tmux, but tmux is still running
 - `tmux ls` - shows running tmuxes
 - `tmux attach` - enter latest tmux
 	- `tmux attach -t 0/name` - enter certain tmux
