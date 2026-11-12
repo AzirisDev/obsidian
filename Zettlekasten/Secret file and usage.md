@@ -14,7 +14,7 @@ env:
 But in `linkding` file, we can name it:
 ```
 env:
-	- name: LD_DB_USER 
+	- name: vLD_DB_USER 
 	  valueFrom: { secretKeyRef: { name: linkding-db, key: username } }
 ```
 
