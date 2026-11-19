@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "3 Periodic Notes/Daily/2026-11-19.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-11-19"
+            }
+          },
+          {
+            "id": "d4c780755ac1ba05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "1 Input/Courses/K8S in Cloud/Setup Terraform.md",
                 "mode": "source",
                 "source": false
@@ -21,7 +35,8 @@
               "title": "Setup Terraform"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,12 +209,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "248ce11b02c129d7",
+  "active": "d4c780755ac1ba05",
   "lastOpenFiles": [
     "1 Input/Courses/K8S in Cloud/Introduction to Infrastructure as Code.md",
+    "1 Input/Courses/K8S in Cloud/Setup Terraform.md",
+    "1 Input/Courses/K8S in Cloud/Terraform modules.md",
+    "3 Periodic Notes/Daily/2026-11-19.md",
     "1 Input/Courses/K8S in Cloud/Clouds are API, first VM in Azure.md",
     "1 Input/Courses/K8S in Cloud/Troubles with login.md",
-    "1 Input/Courses/K8S in Cloud/Setup Terraform.md",
     "3 Periodic Notes/Daily/2026-11-18.md",
     "1 Input/Courses/K8S in Cloud",
     "1 Input/Courses/Home lab/How to configure Cloudflare tunnel?.md",
@@ -221,8 +238,6 @@
     "1 Input/Courses/Home lab/Installing FluxCD.md",
     "1 Input/Courses/Home lab/Secret management with SOPS.md",
     "Zettlekasten/Secret file and usage.md",
-    "3 Periodic Notes/Daily/2026-11-12.md",
-    "1 Input/Courses/Home lab/Security context for deployment.md",
     "1 Input/Courses/Home lab",
     "1 Input/Courses/Dev Containers",
     "1 Input/F-word ups",

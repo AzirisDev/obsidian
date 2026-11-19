@@ -156,7 +156,7 @@ Usually those files live in storage accounts, not in local machines, so that mul
 11) `terraform destroy` deletes everything that we mention in `vm.tf` file
 
 
-
+Check this link for Terraform introduction file: https://github.com/AzirisDev/mercury-workflows/tree/main/phase-1-vm
 #### [[Troubles with login]]
 
 Links:
