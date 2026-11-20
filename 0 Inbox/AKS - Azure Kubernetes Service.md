@@ -21,6 +21,8 @@ You also choose between a public and a private API server, and between Azure Net
 1) `Integrations`: AKS connects to Azure Container Registry (ACR) for images, Key Vault (via the CSI driver), Azure Disks and Files for persistent volumes, Azure Monitor, Managed Prometheus, and Managed Grafana.
 
 [[Kubectl shows k3s instead of AKS after az aks get-credentials]]
+[[AKS with Terraform]]
+
 
 Links:
 
