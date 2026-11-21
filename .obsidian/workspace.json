@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 Inbox/AKS - Azure Kubernetes Service.md",
+                "file": "1 Input/Courses/K8S in Cloud/AKS - Azure Kubernetes Service.md",
                 "mode": "source",
                 "source": false
               },
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "contexts",
+                "query": "port-forward",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -209,14 +209,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e0f82aced9f57bec",
+  "active": "25755538c43956f4",
   "lastOpenFiles": [
+    "1 Input/Courses/K8S in Cloud/AKS - Azure Kubernetes Service.md",
+    "1 Input/Courses/Home lab/Monitoring & Helm.md",
+    "1 Input/Courses/Home lab/Linkding initiial deployment - Kustomization.md",
+    "1 Input/Courses/K8S in Cloud/Setup Terraform.md",
     "1 Input/Courses/K8S in Cloud/AKS with Terraform.md",
-    "0 Inbox/AKS - Azure Kubernetes Service.md",
     "0 Inbox/AKS.md",
     "1 Input/Courses/K8S in Cloud/Kubectl shows k3s instead of AKS after az aks get-credentials.md",
     "3 Periodic Notes/Daily/2026-11-20.md",
-    "1 Input/Courses/K8S in Cloud/Setup Terraform.md",
     "1 Input/Courses/K8S in Cloud/Introduction to Infrastructure as Code.md",
     "1 Input/Courses/K8S in Cloud/Terraform modules.md",
     "3 Periodic Notes/Daily/2026-11-19.md",
@@ -226,9 +228,7 @@
     "1 Input/Courses/K8S in Cloud",
     "1 Input/Courses/Home lab/How to configure Cloudflare tunnel?.md",
     "1 Input/Courses/Home lab/Installing K3S.md",
-    "1 Input/Courses/Home lab/Linkding initiial deployment - Kustomization.md",
     "1 Input/Courses/Home lab/Exposing Linkding to the internet - Cloudflare.md",
-    "1 Input/Courses/Home lab/Monitoring & Helm.md",
     "1 Input/Courses/Home lab/Automate image updates system.md",
     "3 Periodic Notes/Daily/2026-11-16.md",
     "1 Input/Courses/Home lab/Ingress with Traefik for Helm charts.md",
