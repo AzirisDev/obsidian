@@ -41,16 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Input/Courses/K8S in Cloud/Expose n8n to internet in AKS.md",
+                "file": "3 Periodic Notes/Daily/2026-11-23.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Expose n8n to internet in AKS"
+              "title": "2026-11-23"
+            }
+          },
+          {
+            "id": "31ef54b2f46ce51e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Input/Courses/K8S in Cloud/Lets create Postgres database in AKS for n8n.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lets create Postgres database in AKS for n8n"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -223,10 +237,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "afd19c6c0c3e49fa",
+  "active": "31ef54b2f46ce51e",
   "lastOpenFiles": [
-    "1 Input/Courses/K8S in Cloud/Expose n8n to internet in AKS.md",
+    "1 Input/Courses/K8S in Cloud/Lets create Postgres database in AKS for n8n.md",
     "3 Periodic Notes/Daily/2026-11-23.md",
+    "1 Input/Courses/K8S in Cloud/Expose n8n to internet in AKS.md",
     "1 Input/Courses/K8S in Cloud/AKS with Terraform.md",
     "1 Input/Courses/K8S in Cloud/AKS - Azure Kubernetes Service.md",
     "1 Input/Courses/Home lab/Monitoring & Helm.md",
@@ -251,7 +266,6 @@
     "1 Input/Courses/Home lab/Ingress with Traefik.md",
     "3 Periodic Notes/Monthly/2026-11.md",
     "1 Input/Courses/Kubernetes/Networking in k8s.md",
-    "Zettlekasten/Ingress.md",
     "1 Input/Courses/Home lab",
     "1 Input/Courses/Dev Containers",
     "1 Input/F-word ups",
